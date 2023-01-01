@@ -33,6 +33,6 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/Bd0HPOidC)、
 [百度网盘](https://pan.baidu.com/s/1fg6jW4lFqIwKpQRsouveEQ?pwd=p1fs) 提取码: p1fs 
 
-20230101.zip 压缩包7.88GB，原始17.11GB
+20230101.zip 压缩包7.88GB，原始17.11GB   
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
 [百度网盘](https://pan.baidu.com/s/12vmfRXnbFP9MoQs8AYdESQ?pwd=q6ij) 提取码: q6ij 
