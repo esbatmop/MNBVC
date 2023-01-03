@@ -54,5 +54,5 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1vBs1sW9O-8LRpWU4cNRKgA?pwd=sbrb) 提取码: sbrb 
 
 20230106.zip 压缩包9.53GB，原始19.45GB   
-[NAS下载]()、
-[百度网盘](https://pan.baidu.com/s/1vBs1sW9O-8LRpWU4cNRKgA?pwd=sbrb) 提取码: sbrb 
+[NAS下载](http://gofile.me/71YIF/pgXGycR5a)、
+[百度网盘](https://pan.baidu.com/s/12UR1p121eESz0mIDJLk4Hw?pwd=m249) 提取码: m249 
