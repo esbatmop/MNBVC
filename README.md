@@ -23,6 +23,11 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 收录的数据将去掉大于等于8位的数字串进行脱敏
 
 
+### 索引和分类
+
+我们没有能力对数据来源进行版权审核。虽然本数据集包括了数据来源信息，但为了长而持久的提供数据集的更新和下载，为了尽量避免版权争议，本数据集不提供压缩包内数据的索引和分类。并恳请大家克制住自己的分享欲，不要讨论压缩包的索引及所包含具体内容的信息。请大家更多的关注大数据量语料本身的应用，拜托大家低调的使用数据。
+
+
 ### 分卷下载信息:
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
@@ -33,30 +38,30 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/Bd0HPOidC)、
 [百度网盘](https://pan.baidu.com/s/1fg6jW4lFqIwKpQRsouveEQ?pwd=p1fs) 提取码: p1fs 
 
-20230101.zip 压缩包7.88GB，原始17.11GB   
+20230101.zip 压缩包7.34GB，原始17.11GB   
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
 [百度网盘](https://pan.baidu.com/s/12vmfRXnbFP9MoQs8AYdESQ?pwd=q6ij) 提取码: q6ij 
 
-20230102.zip 压缩包23.78GB，原始51.8GB   
+20230102.zip 压缩包22.14GB，原始51.8GB   
 [NAS下载](http://gofile.me/71YIF/4UtXpX7dk)、
 [百度网盘](https://pan.baidu.com/s/13BWOa9FfLGVJFPTmhtlBxg?pwd=tckd) 提取码: tckd 
 
-20230103.zip 压缩包13.27GB，原始27.97GB   
+20230103.zip 压缩包12.35GB，原始27.97GB   
 [NAS下载](http://gofile.me/71YIF/ka1tGFXNr)、
 [百度网盘](https://pan.baidu.com/s/1qo7MGsgROgMNnpMUgUn9iw?pwd=7dpr) 提取码: 7dpr 
 
-20230104.zip 压缩包13.27GB，原始28.54GB   
+20230104.zip 压缩包12.36GB，原始28.54GB   
 [NAS下载](http://gofile.me/71YIF/mgM6Ns2lB)、
 [百度网盘](https://pan.baidu.com/s/1QRsbl-nqUWzwIXvsTAOaGw?pwd=87c6) 提取码: 87c6 
 
-20230105.zip 压缩包16.45GB，原始35.18GB   
+20230105.zip 压缩包15.32GB，原始35.18GB   
 [NAS下载](http://gofile.me/71YIF/jeJLkSyfp)、
 [百度网盘](https://pan.baidu.com/s/1vBs1sW9O-8LRpWU4cNRKgA?pwd=sbrb) 提取码: sbrb 
 
-20230106.zip 压缩包9.53GB，原始19.45GB   
+20230106.zip 压缩包8.87GB，原始19.45GB   
 [NAS下载](http://gofile.me/71YIF/pgXGycR5a)、
 [百度网盘](https://pan.baidu.com/s/12UR1p121eESz0mIDJLk4Hw?pwd=m249) 提取码: m249 
 
-20230107.zip 压缩包9.53GB，原始13.14GB   
+20230107.zip 压缩包6.2GB，原始13.14GB   
 [NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
 [百度网盘](https://pan.baidu.com/s/1j-zc_HLjsDegjHhAYPSz5Q?pwd=qy7w) 提取码: qy7w 
