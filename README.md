@@ -68,7 +68,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230108.zip 压缩包9.56GB，原始25.84GB   
 [NAS下载](http://gofile.me/71YIF/FtUoysYpZ)、
-[百度网盘](https://pan.baidu.com/s/1n8OLrp8Ep0oXywQs-X3k2Q?pwd=xkgp) 提取码: xkgp 
+[百度网盘](https://pan.baidu.com/s/1_Ka5frI2aOWS8Ys5Ei3ctA?pwd=2yxp) 提取码: 2yxp 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
 [NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
