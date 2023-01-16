@@ -6,7 +6,7 @@
 
 **在英明神武的里屋管理员带领下，决心发挥社区所长(哪都长)，帮助开源社区长期更新一份最大的中文互联网语料集**
 
-MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网搜集。
+MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网收集。
 
 ### 进度
 
@@ -66,9 +66,9 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
 [百度网盘](https://pan.baidu.com/s/1j-zc_HLjsDegjHhAYPSz5Q?pwd=qy7w) 提取码: qy7w 
 
-20230108.zip 压缩包9.56GB，原始25.84GB   
-[NAS下载](http://gofile.me/71YIF/FtUoysYpZ)、
-[百度网盘](https://pan.baidu.com/s/1_Ka5frI2aOWS8Ys5Ei3ctA?pwd=2yxp) 提取码: 2yxp 
+20230108.zip 压缩包9.56GB，原始25.84GB  此包内包含清华大学的新浪新闻数据,小文件众多,解压很慢 
+[NAS下载](http://gofile.me/71YIF/bqqGBXY7f)、
+[百度网盘](https://pan.baidu.com/s/1W336Y_BrgwWi21l7i22D8Q?pwd=d7xt) 提取码: d7xt 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
 [NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
