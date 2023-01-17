@@ -66,7 +66,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
 [百度网盘](https://pan.baidu.com/s/1j-zc_HLjsDegjHhAYPSz5Q?pwd=qy7w) 提取码: qy7w 
 
-20230108.zip 压缩包9.56GB，原始25.84GB  此包内包含清华大学的新浪新闻数据,小文件众多,解压很慢   
+20230108.zip 压缩包9.56GB，原始25.84GB  此包小文件众多,解压很慢   
 [NAS下载](http://gofile.me/71YIF/bqqGBXY7f)、
 [百度网盘](https://pan.baidu.com/s/1W336Y_BrgwWi21l7i22D8Q?pwd=d7xt) 提取码: d7xt 
 
