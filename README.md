@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量374.17GB，目标是达到chatGPT的40T数据，目前进度0.9%。
+目前总数据量598.2GB，目标是达到chatGPT的40T数据，目前进度1.5%。
 
 ### 数据说明
 
@@ -98,4 +98,34 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/dqrgJmd2B)、
 [百度网盘](https://pan.baidu.com/s/1l4EJI-eR8IRlN7JZJui20w?pwd=r96v) 提取码: r96v 
 
+20230117.zip 压缩包10.9GB，原始27.51GB   
+[NAS下载](http://gofile.me/71YIF/FSLYVLbd3)、
+[百度网盘]() 百度网盘3天后放出   
 
+20230118.zip 压缩包10.91GB，原始29.31GB   
+[NAS下载](http://gofile.me/71YIF/A1htUfq1h)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230119.zip 压缩包10.44GB，原始29.18GB   
+[NAS下载](http://gofile.me/71YIF/9Hu0MZuQc)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230120.zip 压缩包11.48GB，原始29.29GB   
+[NAS下载](http://gofile.me/71YIF/IEsha6Cpa)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230121.zip 压缩包12.51GB，原始29.88GB   
+[NAS下载](http://gofile.me/71YIF/vob2gJW1A)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230122.zip 压缩包11.64GB，原始27.48GB   
+[NAS下载](http://gofile.me/71YIF/1Stqsa5W4)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230123.zip 压缩包11.03GB，原始26.15GB   
+[NAS下载](http://gofile.me/71YIF/JoK1L8Bnr)、
+[百度网盘]() 百度网盘3天后放出   
+
+20230124.zip 压缩包9.84GB，原始25.23GB   
+[NAS下载](http://gofile.me/71YIF/UjIyr9pNT)、
+[百度网盘]() 百度网盘3天后放出   
