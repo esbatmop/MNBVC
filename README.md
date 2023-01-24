@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量598.2GB，目标是达到chatGPT的40T数据，目前进度1.5%。
+目前总数据量615.5GB，目标是达到chatGPT的40T数据，目前进度1.5%。
 
 ### 数据说明
 
@@ -92,40 +92,40 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230115.zip 压缩包7.53GB，原始20.51GB   
 [NAS下载](http://gofile.me/71YIF/QoTbvW4sz)、
-[百度网盘](https://pan.baidu.com/s/11ToLtFRG5t95oS0RRBGPRQ?pwd=8g1u) 提取码: 8g1u 
+[百度网盘](https://pan.baidu.com/s/11ToLtFRG5t95oS0RRBGPRQ?pwd=8g1u) 提取码: 8g1u   
 
 20230116.zip 压缩包3.29GB，原始10.81GB   
 [NAS下载](http://gofile.me/71YIF/dqrgJmd2B)、
-[百度网盘](https://pan.baidu.com/s/1l4EJI-eR8IRlN7JZJui20w?pwd=r96v) 提取码: r96v 
+[百度网盘](https://pan.baidu.com/s/1l4EJI-eR8IRlN7JZJui20w?pwd=r96v) 提取码: r96v   
 
-20230117.zip 压缩包10.9GB，原始27.51GB   
+20230117.zip 压缩包11.71GB，原始29.54GB   
 [NAS下载](http://gofile.me/71YIF/FSLYVLbd3)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘](https://pan.baidu.com/s/1f_kGPc9FrEzUIZGHoBo-yA?pwd=wefu) 提取码: wefu   
 
-20230118.zip 压缩包10.91GB，原始29.31GB   
+20230118.zip 压缩包11.71GB，原始31.47GB   
 [NAS下载](http://gofile.me/71YIF/A1htUfq1h)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘](https://pan.baidu.com/s/1zssV51oE09i5iCh_dQ1HxA?pwd=qt38) 提取码: qt38   
 
-20230119.zip 压缩包10.44GB，原始29.18GB   
+20230119.zip 压缩包11.21GB，原始31.33GB   
 [NAS下载](http://gofile.me/71YIF/9Hu0MZuQc)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘](https://pan.baidu.com/s/1-832gGUVq67h1vvO1MHqTg?pwd=sjvr) 提取码: sjvr   
 
-20230120.zip 压缩包11.48GB，原始29.29GB   
+20230120.zip 压缩包12.32GB，原始31.45GB   
 [NAS下载](http://gofile.me/71YIF/IEsha6Cpa)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘](https://pan.baidu.com/s/1Swc2HVUelHvhPo4BO_WXrw?pwd=k52h) 提取码: k52h   
 
-20230121.zip 压缩包12.51GB，原始29.88GB   
+20230121.zip 压缩包13.44GB，原始32.08GB   
 [NAS下载](http://gofile.me/71YIF/vob2gJW1A)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘](https://pan.baidu.com/s/1FEuXKXW_rGVWbcShZ6dEYw?pwd=mvk2) 提取码: mvk2   
 
-20230122.zip 压缩包11.64GB，原始27.48GB   
+20230122.zip 压缩包12.49GB，原始29.5GB   
 [NAS下载](http://gofile.me/71YIF/1Stqsa5W4)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘]() 提取码:    
 
-20230123.zip 压缩包11.03GB，原始26.15GB   
+20230123.zip 压缩包11.84GB，原始28.08GB   
 [NAS下载](http://gofile.me/71YIF/JoK1L8Bnr)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘]() 提取码:    
 
-20230124.zip 压缩包9.84GB，原始25.23GB   
+20230124.zip 压缩包10.57GB，原始27.16GB   
 [NAS下载](http://gofile.me/71YIF/UjIyr9pNT)、
-[百度网盘]() 百度网盘3天后放出   
+[百度网盘]() 提取码:    
