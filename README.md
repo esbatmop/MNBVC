@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量800.71GB，目标是达到chatGPT的40T数据，目前进度2%。
+目前总数据量970.68GB，目标是达到chatGPT的40T数据，目前进度2.4%。
 
 ### 数据说明
 压缩包如有加密，密码为253874
@@ -158,12 +158,49 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/nw95xXjWZ)、
 [百度网盘](https://pan.baidu.com/s/1rmKj0GNYsgrcgJzS2Z0B3A?pwd=b27c) 提取码: b27c   
 
-20230131.zip 压缩包GB，原始20.53GB   
+20230131.zip 压缩包8.13GB，原始20.53GB   
 [NAS下载](http://gofile.me/71YIF/Y1U0dlfzm)、
 [百度网盘](https://pan.baidu.com/s/1jyfZf8ZjjI5H8-_o7hBodA?pwd=uun3) 提取码: uun3   
 
-20230132.zip 压缩包GB，原始18.52GB   
+20230132.zip 压缩包7.28GB，原始18.52GB   
 [NAS下载](http://gofile.me/71YIF/w1rtaJ3ZU)、
 [百度网盘](https://pan.baidu.com/s/1fgRkHilLQQsr_Z7FVjs3FQ?pwd=76wf) 提取码: 76wf   
+
+20230133.zip 压缩包6.95GB，原始17.54GB   
+[NAS下载](http://gofile.me/71YIF/g4YgM5pQB)、
+[百度网盘](https://pan.baidu.com/s/1IaY6egHHSKjQlc3RZ_bhPw?pwd=a8ek) 提取码: a8ek   
+
+20230134.zip 压缩包5.20GB，原始21.08GB   
+[NAS下载](http://gofile.me/71YIF/bjmilSYfg)、
+[百度网盘](https://pan.baidu.com/s/16q2XG_iXu0B5Ip_Tq-HJkw?pwd=8pjk) 提取码: 8pjk   
+
+20230135.zip 压缩包4.57GB，原始18.55GB   
+[NAS下载](http://gofile.me/71YIF/pVEsa6Y6t)、
+[百度网盘](https://pan.baidu.com/s/1XuQFUbxenvn64JACk_TZYQ?pwd=jjy6) 提取码: jjy6   
+
+20230136.zip 压缩包5.16GB，原始20.94GB   
+[NAS下载](http://gofile.me/71YIF/9NzlsPPOx)、
+[百度网盘](https://pan.baidu.com/s/1LqtjIAGeg3flQP_le-NcjA?pwd=kq51) 提取码: kq51   
+
+20230137.zip 压缩包4.99GB，原始20.39GB   
+[NAS下载](http://gofile.me/71YIF/ozB6oUWpk)、
+[百度网盘](https://pan.baidu.com/s/1eagIBWbMwG5SJeGnPXVf6A?pwd=22xp) 提取码: 22xp   
+
+20230138.zip 压缩包4.06GB，原始16.35GB   
+[NAS下载](http://gofile.me/71YIF/pfuyhg0rl)、
+[百度网盘](https://pan.baidu.com/s/1CdC-M9cCci3lPlqJcon86Q?pwd=3rjw) 提取码: 3rjw   
+
+20230139.zip 压缩包4.60GB，原始18.58GB   
+[NAS下载](http://gofile.me/71YIF/zZ9qOVNtK)、
+[百度网盘](https://pan.baidu.com/s/1A0-DWrr72jZSnuRs-umbfQ?pwd=21p4) 提取码: 21p4   
+
+20230140.zip 压缩包4.45GB，原始17.95GB   
+[NAS下载](http://gofile.me/71YIF/v9E6hGeh7)、
+[百度网盘](https://pan.baidu.com/s/1JubTHBl_ausXJl6-4IuWSA?pwd=gwia) 提取码: gwia   
+
+20230141.zip 压缩包4.59GB，原始18.59GB   
+[NAS下载](http://gofile.me/71YIF/K6mxVARID)、
+[百度网盘](https://pan.baidu.com/s/1PHNgGsYs5yTPWy7ix5amig?pwd=6gsf) 提取码: 6gsf   
+
 
 
