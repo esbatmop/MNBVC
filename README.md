@@ -34,13 +34,15 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 分卷下载信息:
 
+通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包,密钥:B4K4JJK3TDGND2PBXV4IG6PNXXBPCI44UBSZZSRLIZMGM5YYWXYZBA
+
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [NAS下载](http://gofile.me/71YIF/jiVmAUnNt)、
 [百度网盘](https://pan.baidu.com/s/1JeNB7pPFfiDJsEVrqc0EOA?pwd=52fu) 提取码: 52fu 
 
 20221225.zip 压缩包7.53GB，原始17.68GB   
 [NAS下载](http://gofile.me/71YIF/Bd0HPOidC)、
-[百度网盘](https://pan.baidu.com/s/1fg6jW4lFqIwKpQRsouveEQ?pwd=p1fs) 提取码: p1fs 
+[百度网盘](https://pan.baidu.com/s/1WiO0jJtWQAfiWoVVDw40qw?pwd=bkqm) 提取码: bkqm  
 
 20230101.zip 压缩包7.34GB，原始17.11GB   
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
