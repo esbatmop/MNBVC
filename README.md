@@ -46,19 +46,19 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230101.zip 压缩包7.34GB，原始17.11GB   
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
-[百度网盘](https://pan.baidu.com/s/12vmfRXnbFP9MoQs8AYdESQ?pwd=q6ij) 提取码: q6ij 
+[百度网盘]() 更新中
 
 20230102.zip 压缩包22.14GB，原始51.8GB   
 [NAS下载](http://gofile.me/71YIF/4UtXpX7dk)、
-[百度网盘](https://pan.baidu.com/s/13BWOa9FfLGVJFPTmhtlBxg?pwd=tckd) 提取码: tckd 
+[百度网盘]() 更新中 
 
 20230103.zip 压缩包12.35GB，原始27.97GB   
 [NAS下载](http://gofile.me/71YIF/ka1tGFXNr)、
-[百度网盘](https://pan.baidu.com/s/1qo7MGsgROgMNnpMUgUn9iw?pwd=7dpr) 提取码: 7dpr 
+[百度网盘]() 更新中 
 
 20230104.zip 压缩包12.36GB，原始28.54GB   
 [NAS下载](http://gofile.me/71YIF/mgM6Ns2lB)、
-[百度网盘](https://pan.baidu.com/s/1QRsbl-nqUWzwIXvsTAOaGw?pwd=87c6) 提取码: 87c6 
+[百度网盘]() 更新中 
 
 20230105.zip 压缩包15.32GB，原始35.18GB   
 [NAS下载](http://gofile.me/71YIF/jeJLkSyfp)、
