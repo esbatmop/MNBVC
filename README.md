@@ -13,9 +13,9 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 目前总数据量1021.81GB，目标是达到chatGPT的40T数据，目前进度2.5%。
 
 ### 数据说明
-压缩包如有加密，密码为253874
+压缩包密码为253874
 
-压缩包内中文语料均清洗为txt和json两种格式
+压缩包内中文语料均清洗为txt和json（包括jsonl）格式
 
 压缩包根目录的links.txt里有每个子文件夹数据来源的url
 
@@ -46,7 +46,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230101.zip 压缩包7.34GB，原始17.11GB   
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
-[百度网盘]() 更新中
+[百度网盘](https://pan.baidu.com/s/1cJ2S2R8SPQJ2awmPLBJiHA?pwd=8k2a) 提取码: 8k2a  
 
 20230102.zip 压缩包22.14GB，原始51.8GB   
 [NAS下载](http://gofile.me/71YIF/4UtXpX7dk)、
@@ -54,7 +54,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230103.zip 压缩包12.35GB，原始27.97GB   
 [NAS下载](http://gofile.me/71YIF/ka1tGFXNr)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1gbRuTqVCShb-_0x577cipw?pwd=71rj) 提取码: 71rj
 
 20230104.zip 压缩包12.36GB，原始28.54GB   
 [NAS下载](http://gofile.me/71YIF/mgM6Ns2lB)、
@@ -70,11 +70,11 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230107.zip 压缩包6.2GB，原始13.14GB   
 [NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
-[百度网盘](https://pan.baidu.com/s/1j-zc_HLjsDegjHhAYPSz5Q?pwd=qy7w) 提取码: qy7w 
+[百度网盘]() 更新中 
 
 20230108.zip 压缩包9.56GB，原始25.84GB  此包小文件众多,解压很慢   
 [NAS下载](http://gofile.me/71YIF/bqqGBXY7f)、
-[百度网盘](https://pan.baidu.com/s/1W336Y_BrgwWi21l7i22D8Q?pwd=d7xt) 提取码: d7xt 
+[百度网盘]() 更新中 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
 [NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
