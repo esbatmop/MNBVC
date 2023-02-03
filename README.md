@@ -58,23 +58,23 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230104.zip 压缩包12.36GB，原始28.54GB   
 [NAS下载](http://gofile.me/71YIF/mgM6Ns2lB)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1FxxJK3Il3F-AKd9tGXbcnw?pwd=pkwy) 提取码: pkwy 
 
 20230105.zip 压缩包15.32GB，原始35.18GB   
 [NAS下载](http://gofile.me/71YIF/jeJLkSyfp)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/14KT1Y24pXX5RYFUyQ1fIJw?pwd=fk62) 提取码: fk62 
 
 20230106.zip 压缩包8.87GB，原始19.45GB   
 [NAS下载](http://gofile.me/71YIF/pgXGycR5a)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1-t9olFvJsQsMAwgWTWtV2A?pwd=upyg) 提取码: upyg 
 
 20230107.zip 压缩包6.2GB，原始13.14GB   
 [NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1NfuytYsAHqtACTs2Yfv-XA?pwd=eape) 提取码: eape  
 
 20230108.zip 压缩包9.56GB，原始25.84GB  此包小文件众多,解压很慢   
 [NAS下载](http://gofile.me/71YIF/bqqGBXY7f)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1ZA3ljZ18LcLeUrjHyWH9Uw?pwd=kywq) 提取码: kywq 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
 [NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
@@ -82,27 +82,27 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230110.zip 压缩包5.79GB，原始15.6GB   
 [NAS下载](http://gofile.me/71YIF/7cTfpvNK9)、
-[百度网盘](https://pan.baidu.com/s/13lEr0soxKgWVIP73xX3erw?pwd=u2du) 提取码: u2du 
+[百度网盘]() 更新中
 
 20230112.zip 压缩包11.26GB，原始23.92GB   
 [NAS下载](http://gofile.me/71YIF/MiBvitCqp)、
-[百度网盘](https://pan.baidu.com/s/1Gra2kdGLbqSODicjtkui1Q?pwd=f94h) 提取码: f94h 
+[百度网盘]() 更新中
 
 20230113.zip 压缩包8.21GB，原始17.54GB   
 [NAS下载](http://gofile.me/71YIF/IxPtnY29r)、
-[百度网盘](https://pan.baidu.com/s/1cKdTSgkCUq_pwDbx-FtX2g?pwd=dzpx) 提取码: dzpx   
+[百度网盘]() 更新中   
 
 20230114.zip 压缩包5.65GB，原始14.79GB   
 [NAS下载](http://gofile.me/71YIF/IkaZLmMbu)、
-[百度网盘](https://pan.baidu.com/s/1vA4Fv6WATdR_g7SaZs4owg?pwd=jwxm) 提取码: jwxm   
+[百度网盘]() 更新中   
 
 20230115.zip 压缩包7.53GB，原始20.51GB   
 [NAS下载](http://gofile.me/71YIF/QoTbvW4sz)、
-[百度网盘](https://pan.baidu.com/s/11ToLtFRG5t95oS0RRBGPRQ?pwd=8g1u) 提取码: 8g1u   
+[百度网盘]() 更新中   
 
 20230116.zip 压缩包3.29GB，原始10.81GB   
 [NAS下载](http://gofile.me/71YIF/dqrgJmd2B)、
-[百度网盘](https://pan.baidu.com/s/1l4EJI-eR8IRlN7JZJui20w?pwd=r96v) 提取码: r96v   
+[百度网盘]() 更新中   
 
 20230117.zip 压缩包11.71GB，原始29.54GB   
 [NAS下载](http://gofile.me/71YIF/FSLYVLbd3)、
