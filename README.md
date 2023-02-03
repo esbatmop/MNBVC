@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量1021.81GB，目标是达到chatGPT的40T数据，目前进度2.5%。
+目前总数据量1004.79GB，目标是达到chatGPT的40T数据，目前进度2.5%。
 
 ### 数据说明
 压缩包密码为253874
@@ -48,7 +48,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
 [百度网盘](https://pan.baidu.com/s/1TLEkczf5_pQlWcXwLPPcEw?pwd=78uq) 提取码: 78uq  
 
-20230102.zip 压缩包22.14GB，原始51.8GB   
+20230102.zip 压缩包22.14GB，原始29.58GB   
 [NAS下载](http://gofile.me/71YIF/4UtXpX7dk)、
 [百度网盘]() 更新中 
 
@@ -78,7 +78,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
 [NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/1weZmOaz4SwHWf9-h8RdHBw?pwd=441t) 提取码: 441t 
 
 20230110.zip 压缩包5.79GB，原始15.6GB   
 [NAS下载](http://gofile.me/71YIF/7cTfpvNK9)、
@@ -96,7 +96,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/IkaZLmMbu)、
 [百度网盘]() 更新中   
 
-20230115.zip 压缩包7.53GB，原始20.51GB   
+20230115.zip 压缩包7.53GB，原始23.1GB   
 [NAS下载](http://gofile.me/71YIF/QoTbvW4sz)、
 [百度网盘]() 更新中   
 
@@ -106,15 +106,15 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230117.zip 压缩包11.71GB，原始29.54GB   
 [NAS下载](http://gofile.me/71YIF/FSLYVLbd3)、
-[百度网盘](https://pan.baidu.com/s/1f_kGPc9FrEzUIZGHoBo-yA?pwd=wefu) 提取码: wefu   
+[百度网盘]() 更新中    
 
 20230118.zip 压缩包11.71GB，原始31.47GB   
 [NAS下载](http://gofile.me/71YIF/A1htUfq1h)、
-[百度网盘](https://pan.baidu.com/s/1zssV51oE09i5iCh_dQ1HxA?pwd=qt38) 提取码: qt38   
+[百度网盘]() 更新中   
 
 20230119.zip 压缩包11.21GB，原始31.33GB   
 [NAS下载](http://gofile.me/71YIF/9Hu0MZuQc)、
-[百度网盘](https://pan.baidu.com/s/1-832gGUVq67h1vvO1MHqTg?pwd=sjvr) 提取码: sjvr   
+[百度网盘]() 更新中   
 
 20230120.zip 压缩包12.32GB，原始31.45GB   
 [NAS下载](http://gofile.me/71YIF/IEsha6Cpa)、
@@ -172,7 +172,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/g4YgM5pQB)、
 [百度网盘](https://pan.baidu.com/s/1IaY6egHHSKjQlc3RZ_bhPw?pwd=a8ek) 提取码: a8ek   
 
-20230134.zip 压缩包5.20GB，原始21.08GB   
+20230134.zip 压缩包5.20GB，原始21.87GB   
 [NAS下载](http://gofile.me/71YIF/bjmilSYfg)、
 [百度网盘](https://pan.baidu.com/s/16q2XG_iXu0B5Ip_Tq-HJkw?pwd=8pjk) 提取码: 8pjk   
 
@@ -200,7 +200,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [NAS下载](http://gofile.me/71YIF/v9E6hGeh7)、
 [百度网盘](https://pan.baidu.com/s/1JubTHBl_ausXJl6-4IuWSA?pwd=gwia) 提取码: gwia   
 
-20230141.zip 压缩包4.59GB，原始18.59GB   
+20230141.zip 压缩包4.59GB，原始20.41GB   
 [NAS下载](http://gofile.me/71YIF/K6mxVARID)、
 [百度网盘](https://pan.baidu.com/s/1PHNgGsYs5yTPWy7ix5amig?pwd=6gsf) 提取码: 6gsf   
 
