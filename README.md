@@ -38,7 +38,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [NAS下载](http://gofile.me/71YIF/jiVmAUnNt)、
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 提取码: dh2n 
 
 20221225.zip 压缩包7.53GB，原始17.68GB   
 [NAS下载](http://gofile.me/71YIF/Bd0HPOidC)、
