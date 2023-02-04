@@ -109,25 +109,25 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1l8JdVh6dC3mVaPWSbGrLUw?pwd=issx) 提取码: issx   
 
 20230124.zip 压缩包10.57GB，原始27.16GB   
-[百度网盘]() 更新中 
+[百度网盘](https://pan.baidu.com/s/18t6cOMo00f0vKfk5fUo0Hw?pwd=fuyi) 提取码: fuyi
 
 20230125.zip 压缩包4.41GB，原始15.42GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1BsBi8dQaFi599NI7hC5vHw?pwd=vy5x) 提取码: vy5x
 
 20230126.zip 压缩包9.12GB，原始26.44GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/18wrH6ptSiU_BlZIbRIpb4A?pwd=mzte) 提取码: mzte  
 
 20230127.zip 压缩包10.73GB，原始27.12GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1WpxRHn9BUe92KzY4gZp_Ew?pwd=47kr) 提取码: 47kr 
 
 20230128.zip 压缩包10.78GB，原始26.12GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1t8UT44WCfn_n9soneFQY6g?pwd=je3u) 提取码: je3u 
 
 20230129.zip 压缩包13.72GB，原始31.09GB   
-[百度网盘](https://pan.baidu.com/s/1qsNOpeFkFAsFnNmXQGTI_g?pwd=rffv) 提取码: rffv   
+[百度网盘]() 更新中   
 
 20230130.zip 压缩包7.61GB，原始19.97GB   
-[百度网盘](https://pan.baidu.com/s/1rmKj0GNYsgrcgJzS2Z0B3A?pwd=b27c) 提取码: b27c   
+[百度网盘]() 更新中   
 
 20230131.zip 压缩包8.13GB，原始20.53GB   
 [百度网盘](https://pan.baidu.com/s/1jyfZf8ZjjI5H8-_o7hBodA?pwd=uun3) 提取码: uun3   
