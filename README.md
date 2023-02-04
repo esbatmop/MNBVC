@@ -82,7 +82,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/18dY4-7TeJksStIVYXCkJlw?pwd=i6sd) 提取码: i6sd   
 
 20230115.zip 压缩包7.53GB，原始23.1GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1q_qxEe2WHW5b9ZjDXF7HGw?pwd=pxth) 提取码: pxth   
 
 20230116.zip 压缩包3.29GB，原始10.81GB   
 [百度网盘](https://pan.baidu.com/s/1tIArlWw_pcoxEAtcYkrblg?pwd=ysqy) 提取码: ysqy 
