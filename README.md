@@ -40,7 +40,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 提取码: dh2n 
 
 20221225.zip 压缩包7.53GB，原始17.68GB   
-[百度网盘]() 更新中
+[百度网盘](https://pan.baidu.com/s/1PXhoGY7g_GXpfKHi7Gyp9A?pwd=gr63) 提取码: gr63
 
 20230101.zip 压缩包7.34GB，原始17.11GB   
 [百度网盘](https://pan.baidu.com/s/1TLEkczf5_pQlWcXwLPPcEw?pwd=78uq) 提取码: 78uq  
@@ -82,7 +82,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/18dY4-7TeJksStIVYXCkJlw?pwd=i6sd) 提取码: i6sd   
 
 20230115.zip 压缩包7.53GB，原始23.1GB   
-[百度网盘](https://pan.baidu.com/s/1q_qxEe2WHW5b9ZjDXF7HGw?pwd=pxth) 提取码: pxth   
+[百度网盘](https://pan.baidu.com/s/1NRz_0pz2XfhJRH8r59zYhQ?pwd=2qnj) 提取码: 2qnj   
 
 20230116.zip 压缩包3.29GB，原始10.81GB   
 [百度网盘](https://pan.baidu.com/s/1tIArlWw_pcoxEAtcYkrblg?pwd=ysqy) 提取码: ysqy 
@@ -109,19 +109,19 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1l8JdVh6dC3mVaPWSbGrLUw?pwd=issx) 提取码: issx   
 
 20230124.zip 压缩包10.57GB，原始27.16GB   
-[百度网盘](https://pan.baidu.com/s/1zPDwlCeSv-co8AsfkWEQWQ?pwd=fy77) 提取码: fy77   
+[百度网盘]() 更新中 
 
 20230125.zip 压缩包4.41GB，原始15.42GB   
-[百度网盘](https://pan.baidu.com/s/1gYSc9-rHaHQyiChkOHtG-w?pwd=fwus) 提取码: fwus   
+[百度网盘]() 更新中   
 
 20230126.zip 压缩包9.12GB，原始26.44GB   
-[百度网盘](https://pan.baidu.com/s/1hwjwhgf-SjAXFC5H5gGRSQ?pwd=61k8) 提取码: 61k8   
+[百度网盘]() 更新中   
 
 20230127.zip 压缩包10.73GB，原始27.12GB   
-[百度网盘](https://pan.baidu.com/s/1hP8A-heWXKCWRkYxQaJNQA?pwd=fniu) 提取码: fniu   
+[百度网盘]() 更新中   
 
 20230128.zip 压缩包10.78GB，原始26.12GB   
-[百度网盘](https://pan.baidu.com/s/1eV3181pSYE7ANYD09-md0Q?pwd=rdxe) 提取码: rdxe   
+[百度网盘]() 更新中   
 
 20230129.zip 压缩包13.72GB，原始31.09GB   
 [百度网盘](https://pan.baidu.com/s/1qsNOpeFkFAsFnNmXQGTI_g?pwd=rffv) 提取码: rffv   
