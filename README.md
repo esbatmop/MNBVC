@@ -34,182 +34,138 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 下载信息:
 
-通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包,密钥:B4K4JJK3TDGND2PBXV4IG6PNXXBPCI44UBSZZSRLIZMGM5YYWXYZBA
+通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包并接收更新,密钥:B4K4JJK3TDGND2PBXV4IG6PNXXBPCI44UBSZZSRLIZMGM5YYWXYZBA
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
-[NAS下载](http://gofile.me/71YIF/jiVmAUnNt)、
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 提取码: dh2n 
 
 20221225.zip 压缩包7.53GB，原始17.68GB   
-[NAS下载](http://gofile.me/71YIF/Bd0HPOidC)、
 [百度网盘]() 更新中
 
 20230101.zip 压缩包7.34GB，原始17.11GB   
-[NAS下载](http://gofile.me/71YIF/lMZ7nFAus)、
 [百度网盘](https://pan.baidu.com/s/1TLEkczf5_pQlWcXwLPPcEw?pwd=78uq) 提取码: 78uq  
 
 20230102.zip 压缩包22.14GB，原始29.58GB   
-[NAS下载](http://gofile.me/71YIF/4UtXpX7dk)、
 [百度网盘]() 更新中 
 
 20230103.zip 压缩包12.35GB，原始27.97GB   
-[NAS下载](http://gofile.me/71YIF/ka1tGFXNr)、
 [百度网盘](https://pan.baidu.com/s/1gbRuTqVCShb-_0x577cipw?pwd=71rj) 提取码: 71rj
 
 20230104.zip 压缩包12.36GB，原始28.54GB   
-[NAS下载](http://gofile.me/71YIF/mgM6Ns2lB)、
 [百度网盘](https://pan.baidu.com/s/1FxxJK3Il3F-AKd9tGXbcnw?pwd=pkwy) 提取码: pkwy 
 
 20230105.zip 压缩包15.32GB，原始35.18GB   
-[NAS下载](http://gofile.me/71YIF/jeJLkSyfp)、
 [百度网盘](https://pan.baidu.com/s/14KT1Y24pXX5RYFUyQ1fIJw?pwd=fk62) 提取码: fk62 
 
 20230106.zip 压缩包8.87GB，原始19.45GB   
-[NAS下载](http://gofile.me/71YIF/pgXGycR5a)、
 [百度网盘](https://pan.baidu.com/s/1-t9olFvJsQsMAwgWTWtV2A?pwd=upyg) 提取码: upyg 
 
 20230107.zip 压缩包6.2GB，原始13.14GB   
-[NAS下载](http://gofile.me/71YIF/vMQ3cmMz2)、
 [百度网盘](https://pan.baidu.com/s/1NfuytYsAHqtACTs2Yfv-XA?pwd=eape) 提取码: eape  
 
 20230108.zip 压缩包9.56GB，原始25.84GB  此包小文件众多,解压很慢   
-[NAS下载](http://gofile.me/71YIF/bqqGBXY7f)、
 [百度网盘](https://pan.baidu.com/s/1ZA3ljZ18LcLeUrjHyWH9Uw?pwd=kywq) 提取码: kywq 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
-[NAS下载](http://gofile.me/71YIF/Dzm1O8Awb)、
 [百度网盘](https://pan.baidu.com/s/1weZmOaz4SwHWf9-h8RdHBw?pwd=441t) 提取码: 441t 
 
 20230110.zip 压缩包5.79GB，原始15.6GB   
-[NAS下载](http://gofile.me/71YIF/7cTfpvNK9)、
 [百度网盘](https://pan.baidu.com/s/1YjiYGe6AZfgR6qNFc9SwCw?pwd=8vf9) 提取码: 8vf9
 
 20230112.zip 压缩包11.26GB，原始23.92GB   
-[NAS下载](http://gofile.me/71YIF/MiBvitCqp)、
 [百度网盘](https://pan.baidu.com/s/1mtCQ8Sz7ImZ9U-0cM-qdcQ?pwd=b9sr) 提取码: b9sr
 
 20230113.zip 压缩包8.21GB，原始17.54GB   
-[NAS下载](http://gofile.me/71YIF/IxPtnY29r)、
 [百度网盘](https://pan.baidu.com/s/1tv6ghAgXuHO7nCqn7YVfjA?pwd=fa49) 提取码: fa49
 
 20230114.zip 压缩包5.65GB，原始14.79GB   
-[NAS下载](http://gofile.me/71YIF/IkaZLmMbu)、
 [百度网盘](https://pan.baidu.com/s/18dY4-7TeJksStIVYXCkJlw?pwd=i6sd) 提取码: i6sd   
 
 20230115.zip 压缩包7.53GB，原始23.1GB   
-[NAS下载](http://gofile.me/71YIF/QoTbvW4sz)、
 [百度网盘]() 更新中   
 
 20230116.zip 压缩包3.29GB，原始10.81GB   
-[NAS下载](http://gofile.me/71YIF/dqrgJmd2B)、
 [百度网盘](https://pan.baidu.com/s/1tIArlWw_pcoxEAtcYkrblg?pwd=ysqy) 提取码: ysqy 
 
 20230117.zip 压缩包11.71GB，原始29.54GB   
-[NAS下载](http://gofile.me/71YIF/FSLYVLbd3)、
 [百度网盘](https://pan.baidu.com/s/1YgOMZjFAzx3WKSPEN056rg?pwd=biew) 提取码: biew  
 
 20230118.zip 压缩包11.71GB，原始31.47GB   
-[NAS下载](http://gofile.me/71YIF/A1htUfq1h)、
 [百度网盘]() 更新中   
 
 20230119.zip 压缩包11.21GB，原始31.33GB   
-[NAS下载](http://gofile.me/71YIF/9Hu0MZuQc)、
 [百度网盘](https://pan.baidu.com/s/1h3QFWz-kQvvs38a7mcus_w?pwd=xsa9) 提取码: xsa9   
 
 20230120.zip 压缩包12.32GB，原始31.45GB   
-[NAS下载](http://gofile.me/71YIF/IEsha6Cpa)、
-[百度网盘]() 更新中    
+[百度网盘](https://pan.baidu.com/s/1PxwJE5JqEIpjBmEWqFLoMA?pwd=kr3f) 提取码: kr3f   
 
 20230121.zip 压缩包13.44GB，原始32.08GB   
-[NAS下载](http://gofile.me/71YIF/vob2gJW1A)、
 [百度网盘](https://pan.baidu.com/s/1dgUIxXaA14fO5ZzdCRHzYA?pwd=82cs) 提取码: 82cs    
 
 20230122.zip 压缩包12.49GB，原始29.5GB   
-[NAS下载](http://gofile.me/71YIF/1Stqsa5W4)、
 [百度网盘](https://pan.baidu.com/s/18JwXVhakYsrvHW7pZL2vgQ?pwd=bjnj) 提取码: bjnj    
 
 20230123.zip 压缩包11.84GB，原始28.08GB   
-[NAS下载](http://gofile.me/71YIF/JoK1L8Bnr)、
-[百度网盘]() 更新中     
+[百度网盘](https://pan.baidu.com/s/1l8JdVh6dC3mVaPWSbGrLUw?pwd=issx) 提取码: issx   
 
 20230124.zip 压缩包10.57GB，原始27.16GB   
-[NAS下载](http://gofile.me/71YIF/UjIyr9pNT)、
 [百度网盘](https://pan.baidu.com/s/1zPDwlCeSv-co8AsfkWEQWQ?pwd=fy77) 提取码: fy77   
 
 20230125.zip 压缩包4.41GB，原始15.42GB   
-[NAS下载](http://gofile.me/71YIF/nXpgPU470)、
 [百度网盘](https://pan.baidu.com/s/1gYSc9-rHaHQyiChkOHtG-w?pwd=fwus) 提取码: fwus   
 
 20230126.zip 压缩包9.12GB，原始26.44GB   
-[NAS下载](http://gofile.me/71YIF/AkVZzPrdA)、
 [百度网盘](https://pan.baidu.com/s/1hwjwhgf-SjAXFC5H5gGRSQ?pwd=61k8) 提取码: 61k8   
 
 20230127.zip 压缩包10.73GB，原始27.12GB   
-[NAS下载](http://gofile.me/71YIF/COT89zLzf)、
 [百度网盘](https://pan.baidu.com/s/1hP8A-heWXKCWRkYxQaJNQA?pwd=fniu) 提取码: fniu   
 
 20230128.zip 压缩包10.78GB，原始26.12GB   
-[NAS下载](http://gofile.me/71YIF/rDkoqgI5d)、
 [百度网盘](https://pan.baidu.com/s/1eV3181pSYE7ANYD09-md0Q?pwd=rdxe) 提取码: rdxe   
 
 20230129.zip 压缩包13.72GB，原始31.09GB   
-[NAS下载](http://gofile.me/71YIF/dw9Jk2qRG)、
 [百度网盘](https://pan.baidu.com/s/1qsNOpeFkFAsFnNmXQGTI_g?pwd=rffv) 提取码: rffv   
 
 20230130.zip 压缩包7.61GB，原始19.97GB   
-[NAS下载](http://gofile.me/71YIF/nw95xXjWZ)、
 [百度网盘](https://pan.baidu.com/s/1rmKj0GNYsgrcgJzS2Z0B3A?pwd=b27c) 提取码: b27c   
 
 20230131.zip 压缩包8.13GB，原始20.53GB   
-[NAS下载](http://gofile.me/71YIF/Y1U0dlfzm)、
 [百度网盘](https://pan.baidu.com/s/1jyfZf8ZjjI5H8-_o7hBodA?pwd=uun3) 提取码: uun3   
 
 20230132.zip 压缩包7.28GB，原始18.52GB   
-[NAS下载](http://gofile.me/71YIF/w1rtaJ3ZU)、
 [百度网盘](https://pan.baidu.com/s/1fgRkHilLQQsr_Z7FVjs3FQ?pwd=76wf) 提取码: 76wf   
 
 20230133.zip 压缩包6.95GB，原始17.54GB   
-[NAS下载](http://gofile.me/71YIF/g4YgM5pQB)、
 [百度网盘](https://pan.baidu.com/s/1IaY6egHHSKjQlc3RZ_bhPw?pwd=a8ek) 提取码: a8ek   
 
 20230134.zip 压缩包5.20GB，原始21.87GB   
-[NAS下载](http://gofile.me/71YIF/bjmilSYfg)、
 [百度网盘](https://pan.baidu.com/s/16q2XG_iXu0B5Ip_Tq-HJkw?pwd=8pjk) 提取码: 8pjk   
 
 20230135.zip 压缩包4.57GB，原始18.55GB   
-[NAS下载](http://gofile.me/71YIF/pVEsa6Y6t)、
 [百度网盘](https://pan.baidu.com/s/1XuQFUbxenvn64JACk_TZYQ?pwd=jjy6) 提取码: jjy6   
 
 20230136.zip 压缩包5.16GB，原始20.94GB   
-[NAS下载](http://gofile.me/71YIF/9NzlsPPOx)、
 [百度网盘](https://pan.baidu.com/s/1LqtjIAGeg3flQP_le-NcjA?pwd=kq51) 提取码: kq51   
 
 20230137.zip 压缩包4.99GB，原始20.39GB   
-[NAS下载](http://gofile.me/71YIF/ozB6oUWpk)、
 [百度网盘](https://pan.baidu.com/s/1eagIBWbMwG5SJeGnPXVf6A?pwd=22xp) 提取码: 22xp   
 
 20230138.zip 压缩包4.06GB，原始16.35GB   
-[NAS下载](http://gofile.me/71YIF/pfuyhg0rl)、
 [百度网盘](https://pan.baidu.com/s/1CdC-M9cCci3lPlqJcon86Q?pwd=3rjw) 提取码: 3rjw   
 
 20230139.zip 压缩包4.60GB，原始18.58GB   
-[NAS下载](http://gofile.me/71YIF/zZ9qOVNtK)、
 [百度网盘](https://pan.baidu.com/s/1A0-DWrr72jZSnuRs-umbfQ?pwd=21p4) 提取码: 21p4   
 
 20230140.zip 压缩包4.45GB，原始17.95GB   
-[NAS下载](http://gofile.me/71YIF/v9E6hGeh7)、
 [百度网盘](https://pan.baidu.com/s/1JubTHBl_ausXJl6-4IuWSA?pwd=gwia) 提取码: gwia   
 
 20230141.zip 压缩包4.59GB，原始20.41GB   
-[NAS下载](http://gofile.me/71YIF/K6mxVARID)、
 [百度网盘](https://pan.baidu.com/s/1PHNgGsYs5yTPWy7ix5amig?pwd=6gsf) 提取码: 6gsf   
 
 20230142.zip 压缩包9.48GB，原始23.9GB   
-[NAS下载](http://gofile.me/71YIF/agGQyIr23)、
 [百度网盘](https://pan.baidu.com/s/12VJq98YYminByUHmMdPQdA?pwd=nebp) 提取码: nebp   
 
 20230143.zip 压缩包12.16GB，原始27.23GB   
-[NAS下载](http://gofile.me/71YIF/f8ORx5FeU)、
 [百度网盘](https://pan.baidu.com/s/1dc2zRjiSPr5GELNJbxGeVQ?pwd=ndau) 提取码: ndau   
 
 
