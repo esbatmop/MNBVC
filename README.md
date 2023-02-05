@@ -133,7 +133,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘]() 更新中   
 
 20230132.zip 压缩包7.28GB，原始18.52GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1AckyTz86Fr0pQLZktoTvLg?pwd=aabc) 提取码: aabc   
 
 20230133.zip 压缩包6.95GB，原始17.54GB   
 [百度网盘]() 更新中   
