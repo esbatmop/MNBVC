@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量1004.79GB，目标是达到chatGPT的40T数据，目前进度2.5%。
+目前总数据量1100.78GB，目标是达到chatGPT的40T数据，目前进度2.7%。
 
 ### 数据说明
 压缩包密码为253874
@@ -127,7 +127,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1S1DJt97jqkSIj6ueeyqKHg?pwd=isqm) 提取码: isqm  
 
 20230130.zip 压缩包7.61GB，原始19.97GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1HfVDxg8KatDnvsvHOjeEQg?pwd=k8ue) 提取码: k8ue   
 
 20230131.zip 压缩包8.13GB，原始20.53GB   
 [百度网盘](https://pan.baidu.com/s/1AQWTzZ6pWD85-Ys1dMBUfQ?pwd=79ti) 提取码: 79ti   
@@ -139,19 +139,19 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘]() 更新中   
 
 20230134.zip 压缩包5.20GB，原始21.87GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1zu-LCVv0T74ezt43Yq5DQQ?pwd=u3fi) 提取码: u3fi   
 
 20230135.zip 压缩包4.57GB，原始18.55GB   
 [百度网盘]() 更新中   
 
 20230136.zip 压缩包5.16GB，原始20.94GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1z6GtpYuBIEBO2mCjV9dDdw?pwd=xiwd) 提取码: xiwd   
 
 20230137.zip 压缩包4.99GB，原始20.39GB   
 [百度网盘]() 更新中   
 
 20230138.zip 压缩包4.06GB，原始16.35GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/181cRCTQlzFVvgGxunXsNGA?pwd=v6v6) 提取码: v6v6   
 
 20230139.zip 压缩包4.60GB，原始18.58GB   
 [百度网盘]() 更新中   
@@ -160,13 +160,22 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘]() 更新中   
 
 20230141.zip 压缩包4.59GB，原始20.41GB   
-[百度网盘](https://pan.baidu.com/s/1PHNgGsYs5yTPWy7ix5amig?pwd=6gsf) 提取码: 6gsf   
+[百度网盘]() 更新中   
 
 20230142.zip 压缩包9.48GB，原始23.9GB   
-[百度网盘](https://pan.baidu.com/s/12VJq98YYminByUHmMdPQdA?pwd=nebp) 提取码: nebp   
+[百度网盘]() 更新中   
 
 20230143.zip 压缩包12.16GB，原始27.23GB   
-[百度网盘](https://pan.baidu.com/s/1dc2zRjiSPr5GELNJbxGeVQ?pwd=ndau) 提取码: ndau   
+[百度网盘]() 更新中   
+
+20230144.zip 压缩包6.42GB，原始32.05GB   
+[百度网盘]() 更新中   
+
+20230145.zip 压缩包6.41GB，原始32.03GB   
+[百度网盘]() 更新中   
+
+20230146.zip 压缩包6.39GB，原始31.91GB   
+[百度网盘]() 更新中   
 
 
 
