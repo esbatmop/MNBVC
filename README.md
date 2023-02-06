@@ -10,7 +10,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量1389.36GB，目标是达到chatGPT的40T数据，目前进度3.5%。
+目前总数据量1870GB，目标是达到chatGPT的40T数据，目前进度4.7%。
 
 ### 数据说明
 压缩包密码为253874
@@ -160,25 +160,25 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1_xDDJ8YF6CEWE8lZtSNVuw?pwd=f3we) 提取码: f3we   
 
 20230141.zip 压缩包4.59GB，原始20.41GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1UoEejav2TRzernl4wv6jcw?pwd=6j6b) 提取码: 6j6b   
 
 20230142.zip 压缩包9.48GB，原始23.9GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1_YxsXy2LxKgrxsJgbaAGLQ?pwd=cicv) 提取码: cicv   
 
 20230143.zip 压缩包12.16GB，原始27.23GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1BHxJzh6aXgrSvxM6pMuKLw?pwd=b2es) 提取码: b2es   
 
 20230144.zip 压缩包6.42GB，原始32.05GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1qBNIAo_uEmhY3yO1TaVV0A?pwd=ea8r) 提取码: ea8r   
 
 20230145.zip 压缩包6.41GB，原始32.03GB   
-[百度网盘]() 更新中    
+[百度网盘](https://pan.baidu.com/s/10r9cH6Dy1cmAL_PdkDMNpQ?pwd=k31g) 提取码: k31g    
 
 20230146.zip 压缩包6.39GB，原始31.91GB   
 [百度网盘](https://pan.baidu.com/s/1wU-XR-ljexZoux5hjl9OLQ?pwd=5gkm) 提取码: 5gkm
 
 20230147.zip 压缩包6.40GB，原始32GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1tHKqnnde7fP_vDqIzL1lRA?pwd=ezci) 提取码: ezci   
 
 20230148.zip 压缩包6.42GB，原始32.1GB   
 [百度网盘](https://pan.baidu.com/s/1p100axKypE1MERzV4iJz4g?pwd=wwbp) 提取码: wwbp    
@@ -187,21 +187,69 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1wIaRx5_ZMGhnYmAWeBVfXQ?pwd=ar95) 提取码: ar95   
 
 20230150.zip 压缩包6.43GB，原始32.1GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1P5EaxHjLmBlV3w971b58VQ?pwd=xtsu) 提取码: xtsu   
 
 20230151.zip 压缩包6.42GB，原始32.09GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1PGJb6BpZ6rl1HXBDGtAtvA?pwd=9fas) 提取码: 9fas   
 
 20230152.zip 压缩包6.45GB，原始32.2GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1m_9qzJ4kv34yz3QEq43TBQ?pwd=huqa) 提取码: huqa
 
 20230153.zip 压缩包6.42GB，原始32.04GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1Q35RkVXmIBzY3gWxl5gH5g?pwd=kmqj) 提取码: kmqj   
 
 20230154.zip 压缩包6.43GB，原始32.1GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/10W6QUugiA860QoRWXi7hmQ?pwd=mniw) 提取码: mniw 
 
 20230155.zip 压缩包6.41GB，原始32.04GB   
+[百度网盘](https://pan.baidu.com/s/1sLVXOR8C9d91O016khNV2A?pwd=5k3c) 提取码: 5k3c   
+
+20230156.zip 压缩包6.42GB，原始32.06GB   
 [百度网盘]() 更新中   
+
+20230157.zip 压缩包6.42GB，原始31.99GB   
+[百度网盘]() 更新中   
+
+20230158.zip 压缩包6.42GB，原始32.09GB   
+[百度网盘]() 更新中   
+
+20230159.zip 压缩包6.38GB，原始31.94GB   
+[百度网盘]() 更新中   
+
+20230160.zip 压缩包6.41GB，原始32.05GB   
+[百度网盘]() 更新中   
+
+20230161.zip 压缩包6.4GB，原始31.89GB   
+[百度网盘]() 更新中   
+
+20230162.zip 压缩包6.42GB，原始32.06GB   
+[百度网盘]() 更新中   
+
+20230163.zip 压缩包6.42GB，原始32.11GB   
+[百度网盘]() 更新中   
+
+20230164.zip 压缩包6.42GB，原始32.1GB   
+[百度网盘]() 更新中   
+
+20230165.zip 压缩包6.4GB，原始32.02GB   
+[百度网盘]() 更新中   
+
+20230166.zip 压缩包6.45GB，原始32.19GB   
+[百度网盘]() 更新中   
+
+20230167.zip 压缩包6.4GB，原始32.05GB   
+[百度网盘]() 更新中   
+
+20230168.zip 压缩包6.42GB，原始32.02GB   
+[百度网盘]() 更新中   
+
+20230169.zip 压缩包6.42GB，原始32.04GB   
+[百度网盘]() 更新中   
+
+20230170.zip 压缩包6.42GB，原始32.03GB   
+[百度网盘]() 更新中   
+
+
+
 
 
