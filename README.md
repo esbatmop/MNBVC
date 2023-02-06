@@ -220,7 +220,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1rWQeabjaY_OZi26QDHiUnA?pwd=w4hm) 提取码: w4hm   
 
 20230161.zip 压缩包6.4GB，原始31.89GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1olRDOCdqmWQmbUbdLgfMBQ?pwd=ge4u) 提取码: ge4u  
 
 20230162.zip 压缩包6.42GB，原始32.06GB   
 [百度网盘](https://pan.baidu.com/s/1d_LW_ABm62z2CnllTRR-MA?pwd=5pwq) 提取码: 5pwq  
@@ -232,7 +232,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1p-NjP8J1TpSnpEeYvG9s9Q?pwd=8vds) 提取码: 28fg  
 
 20230165.zip 压缩包6.4GB，原始32.02GB   
-[百度网盘]() 更新中   
+[百度网盘](https://pan.baidu.com/s/1iJv7_kxh6nSqeZ2QtU0q9A?pwd=uxeq) 提取码: uxeq 
 
 20230166.zip 压缩包6.45GB，原始32.19GB   
 [百度网盘](https://pan.baidu.com/s/1BgLe7zOYqkxBVFRtcFJNzg?pwd=n28t) 提取码: n28t   
