@@ -34,7 +34,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 下载信息:
 
-原p2p微力下载将于2023.3.1停止提供做种，我们正在寻找新的数据提供方式
+http下载：http://dl.mnbvc.253874.net:9191/mnbvc/
+p2p的下载正在继续测试中，待测试完毕会继续放出。
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 提取码: dh2n 
