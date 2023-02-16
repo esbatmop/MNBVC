@@ -1,6 +1,6 @@
 # MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集
 
-## 请媒体朋友们不要推广我们，让我们有更长久的时间可以收集整理数据。您让我们保持低调，就是对中文算法圈做了大的贡献！
+## 请媒体朋友们不要报道我们，让我们有更长久的时间可以收集整理数据。您让我们保持低调，就是对中文算法圈做了大的贡献！
 
 响应[符尧博士的号召](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)，危机存亡之秋，为避免技术断代，为将几千年历史的中文之美传承给AI。
 
@@ -146,28 +146,28 @@ p2p的下载正在继续测试中，待测试完毕会继续放出。
 [百度网盘](https://pan.baidu.com/s/1Fj4JYvnEsu57ppirSHPoLw?pwd=97dd) 提取码: 97dd   
 
 20230134.zip 压缩包5.20GB，原始21.87GB   
-[百度网盘](https://pan.baidu.com/s/1zu-LCVv0T74ezt43Yq5DQQ?pwd=u3fi) 提取码: u3fi   
+更新中
 
 20230135.zip 压缩包4.57GB，原始18.55GB   
-[百度网盘](https://pan.baidu.com/s/1o-utkzpABpZYfLL2uVLs5A?pwd=xn2a) 提取码: xn2a   
+更新中
 
 20230136.zip 压缩包5.16GB，原始20.94GB   
-[百度网盘](https://pan.baidu.com/s/1z6GtpYuBIEBO2mCjV9dDdw?pwd=xiwd) 提取码: xiwd   
+更新中
 
 20230137.zip 压缩包4.99GB，原始20.39GB   
-[百度网盘](https://pan.baidu.com/s/1e3CItrQNRzwGmrIQ-dwpxQ?pwd=vitu) 提取码: vitu  
+更新中
 
 20230138.zip 压缩包4.06GB，原始16.35GB   
-[百度网盘](https://pan.baidu.com/s/181cRCTQlzFVvgGxunXsNGA?pwd=v6v6) 提取码: v6v6   
+更新中
 
 20230139.zip 压缩包4.60GB，原始18.58GB   
-[百度网盘](https://pan.baidu.com/s/1eMyemt3qvfPTXv7lHIgn8g?pwd=djef) 提取码: djef 
+更新中
 
 20230140.zip 压缩包4.45GB，原始17.95GB   
-[百度网盘](https://pan.baidu.com/s/1_xDDJ8YF6CEWE8lZtSNVuw?pwd=f3we) 提取码: f3we   
+更新中
 
 20230141.zip 压缩包4.59GB，原始20.41GB   
-[百度网盘](https://pan.baidu.com/s/1UoEejav2TRzernl4wv6jcw?pwd=6j6b) 提取码: 6j6b   
+更新中
 
 20230142.zip 压缩包9.48GB，原始23.9GB   
 [百度网盘](https://pan.baidu.com/s/1_YxsXy2LxKgrxsJgbaAGLQ?pwd=cicv) 提取码: cicv   
