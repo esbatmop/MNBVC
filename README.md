@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量1870GB，目标是达到chatGPT的40T数据，目前进度4.7%。
+目前总数据量2169.9GB，目标是达到chatGPT的40T数据，目前进度5.4%。
 
 ### 数据说明
 压缩包密码为253874
@@ -27,7 +27,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 压缩包内数据只做了粗加工,例如html&xml转txt、csv&tsv转json等
 
-我们有一个小组负责将数据精加工成huggingface上开箱即用的语料集，但目前整个项目的算力和人力更优先用于堆量。
+huggingface上开箱即用的语料集，本周将会放出。
 
 ### 索引和分类
 
@@ -41,7 +41,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 语料集下载信息:
 
-p2p的下载正在继续测试中，待测试完毕会继续放出。
+p2p的下载正在继续测试中，本周将会放出。
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 
@@ -256,7 +256,48 @@ p2p的下载正在继续测试中，待测试完毕会继续放出。
 20230170.zip 压缩包6.42GB，原始32.03GB   
 [百度网盘](https://pan.baidu.com/s/1qJ77NMjxPS9nWgciG3NvLw?pwd=441v) 
 
+20230171.zip 压缩包GB，原始29.81GB   
+[百度网盘](https://pan.baidu.com/s/1y7yA7AmunAJmtG8JsmJnGw?pwd=31xd) 
 
+20230172.zip 压缩包GB，原始8.75GB   
+[百度网盘](https://pan.baidu.com/s/1XGtVO9sya8PATNQlLgBIYA?pwd=i8a4) 
 
+20230173.zip 压缩包9.70GB，原始25.02GB   
+[百度网盘](https://pan.baidu.com/s/1XnA6P04mNQm0J_tRnWYy_w?pwd=hi2s) 
 
+20230174.zip 压缩包5.51GB，原始14.56GB   
+[百度网盘](https://pan.baidu.com/s/19AU0h27WrdAZMfSSBh2UIQ?pwd=bant) 
+
+20230175.zip 压缩包7.14GB，原始18.25GB   
+[百度网盘](https://pan.baidu.com/s/1EUgyvfK5IE7SqqRw-ug-qw?pwd=w13t) 
+
+20230176.zip 压缩包7.1GB，原始18.74GB   
+[百度网盘](https://pan.baidu.com/s/16wb-5DdKn0RRqtivt8KSXA?pwd=x721) 
+
+20230177.zip 压缩包7.7GB，原始18.8GB   
+[百度网盘](https://pan.baidu.com/s/1bZey3ZDRtXsteaUAWr7Uqg?pwd=wr5q) 
+
+20230178.zip 压缩包7.78GB，原始18.26GB   
+[百度网盘](https://pan.baidu.com/s/1PDc_r8GOK_2hNa0DeJq-RQ?pwd=tm53) 
+
+20230179.zip 压缩包8.81GB，原始20.55GB   
+[百度网盘](https://pan.baidu.com/s/1XDA30rs92YCQVWxuT7NSIg?pwd=uw7c) 
+
+20230180.zip 压缩包9.56GB，原始22.08GB   
+[百度网盘](https://pan.baidu.com/s/1cljUdAP7nT0gTkC_bY8JpA?pwd=n3be) 
+
+20230181.zip 压缩包9.06GB，原始20.47GB   
+[百度网盘](https://pan.baidu.com/s/1wtyEpIV22LpS8Ac4kKHMng?pwd=sbfr) 
+
+20230182.zip 压缩包9.22GB，原始20.82GB   
+[百度网盘](https://pan.baidu.com/s/1sbc9gJHspeJSlPcEBYM3MA?pwd=jzv7) 
+
+20230183.zip 压缩包9.13GB，原始20.18GB   
+[百度网盘](https://pan.baidu.com/s/1yKczRjZjl1Tvvmfw9CAwkA?pwd=gmpe) 
+
+20230184.zip 压缩包8.11GB，原始18.87GB   
+[百度网盘](https://pan.baidu.com/s/1BmJ__Ka_5Me5NH6craz_Yg?pwd=dsef) 
+
+20230185.zip 压缩包11.52GB，原始24.72GB   
+[百度网盘](https://pan.baidu.com/s/1K9OLSk_ifXEyPvPj6GYNwQ?pwd=n2a9) 
 
