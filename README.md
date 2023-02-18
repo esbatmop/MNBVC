@@ -256,11 +256,11 @@ p2p的下载正在继续测试中，本周将会放出。
 20230170.zip 压缩包6.42GB，原始32.03GB   
 [百度网盘](https://pan.baidu.com/s/1qJ77NMjxPS9nWgciG3NvLw?pwd=441v) 
 
-20230171.zip 压缩包GB，原始29.81GB   
+20230171.zip 压缩包6.41GB，原始29.81GB   
 [百度网盘](https://pan.baidu.com/s/1y7yA7AmunAJmtG8JsmJnGw?pwd=31xd) 
 
-20230172.zip 压缩包GB，原始8.75GB   
-[百度网盘](https://pan.baidu.com/s/1XGtVO9sya8PATNQlLgBIYA?pwd=i8a4) 
+20230172.zip 压缩包2.03GB，原始8.75GB   
+[百度网盘](https://pan.baidu.com/s/1d3DnvpcHku4cHB6b4hjjjw?pwd=v619) 
 
 20230173.zip 压缩包9.70GB，原始25.02GB   
 [百度网盘](https://pan.baidu.com/s/1XnA6P04mNQm0J_tRnWYy_w?pwd=hi2s) 
