@@ -27,8 +27,6 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 压缩包内数据只做了粗加工,例如html&xml转txt、csv&tsv转json等
 
-huggingface上开箱即用的语料集，本周将会放出。
-
 ### 索引和分类
 
 我们没有能力对数据来源进行版权审核。虽然本数据集包括了数据来源信息，但为了长而持久的提供数据集的更新和下载，为了尽量避免版权争议，本数据集不提供压缩包内数据的索引和分类。并恳请大家克制住自己的分享欲，不要讨论压缩包的索引及所包含具体内容的信息。请大家更多的关注大数据量语料本身的应用，拜托大家低调的使用数据。
@@ -39,9 +37,13 @@ huggingface上开箱即用的语料集，本周将会放出。
 
 更快速且准确的中文编码检测工具：[charset-mnbvc](https://github.com/alanshi/charset_mnbvc)    
 
+### huggingface
+
+清洗完成的分类数据将陆续放到：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
+
 ### 语料集下载信息:
 
-p2p的下载正在继续测试中，本周将会放出。
+p2p的下载正在继续测试中，2月底前将会放出。
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 
