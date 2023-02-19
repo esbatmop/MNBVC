@@ -44,9 +44,9 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 ### 语料集下载信息:
 
 通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包并接收更新    
-注意！！！p2p微力请设置关闭tcp穿透、关闭UDP传输。这两个设置如不关闭，有可能占用比较多的端口资源。    
->密钥: B4MVPVJTK3DOOAOPVLJ3E7TA7RWW4J2ZEAXJRMRSRHSBPDB7OAFHUQ    
->[微力同步对应直达链接](https://link.verysync.com/#f=MNBVC%40xclimbing&sz=105E4&k=P4AJDJXHY3RCCOCDJZX3S7HO7FKK4X2NSOLXFAFGFVGPDRP7COTVIE&d=SJZHVB7GAZZLS2ZN43D3NNEBHPMU&t=1&tm=1676793101554&v=v2.16.0&a=1
+注意！！！请设置关闭tcp穿透、关闭UDP传输。这两个设置如不关闭，微力有可能占用比较多的端口资源。    
+>微力密钥: B4MVPVJTK3DOOAOPVLJ3E7TA7RWW4J2ZEAXJRMRSRHSBPDB7OAFHUQ    
+>[微力直达链接](https://link.verysync.com/#f=MNBVC%40xclimbing&sz=105E4&k=P4AJDJXHY3RCCOCDJZX3S7HO7FKK4X2NSOLXFAFGFVGPDRP7COTVIE&d=SJZHVB7GAZZLS2ZN43D3NNEBHPMU&t=1&tm=1676793101554&v=v2.16.0&a=1
 )
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
