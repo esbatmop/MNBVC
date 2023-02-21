@@ -36,6 +36,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 为处理大规模的中文语料，MNBVC项目组的同学在现有开源软件基础上做了优化，提供了更高效的版本:  
 
 更快速且准确的中文编码检测工具：[charset-mnbvc](https://github.com/alanshi/charset_mnbvc)    
+将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)    
 
 ### huggingface
 
