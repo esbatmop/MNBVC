@@ -42,6 +42,12 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 清洗完成的分类数据将陆续放到：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
 
+### 摇人
+
+平行语料小组，目前1人，缺5人（python熟练） 
+OCR转码小组，目前1人，缺3人（需有CV、NLP算法背景）
+代码语料小组，目前3人，缺1人（需有充足时间）
+
 ### 语料集下载信息:
 
 通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包并接收更新    
