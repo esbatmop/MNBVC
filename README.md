@@ -42,7 +42,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 清洗完成的分类数据将陆续放到：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
 
-### 摇人
+### 一人行快，众人行远（摇人加速）
 
  + 平行语料小组，目前1人，缺5人（python熟练）                                   
  + OCR转码小组，目前1人，缺3人（需有CV、NLP算法背景）                                 
