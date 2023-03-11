@@ -45,7 +45,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 ### 一人行快，众人行远（摇人加速）
 
  + 急需组建OCR转码小组，目前1人，缺5人（需有CV、NLP算法背景，想用nlp辅助ocr转码，有业内此领域顶尖大佬带队指导）
- + 问答语料清洗小组，目前1人，缺5人（目前全是写python代码对齐问答项并人肉检查的苦力活，后面想利用算法模型做自动对齐）
+ + 问答语料清洗小组，目前2人，缺4人（目前全是写python代码对齐问答项并人肉检查的苦力活，后面想利用算法模型做自动对齐）
  + 代码语料小组和平行语料小组还缺两个打杂（后面由组长来决定到底干嘛）
  + 待建语料增强小组（想利用nlp补全缺字的语料，并进行文本质量检测等）
  + 待建古文研究小组（研究地方志等古籍的转码，语料很多，难度很大）
@@ -68,16 +68,16 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1TLEkczf5_pQlWcXwLPPcEw?pwd=78uq) 
 
 20230102.zip 压缩包22.14GB，原始29.58GB   
-[百度网盘](https://pan.baidu.com/s/1XJ0Q2riDU2uCYI2qi6HMIQ?pwd=kvuz) 
+更新清洗后的语料中
 
 20230103.zip 压缩包12.35GB，原始27.97GB   
-[百度网盘](https://pan.baidu.com/s/1gbRuTqVCShb-_0x577cipw?pwd=71rj) 
+更新清洗后的语料中
 
 20230104.zip 压缩包12.36GB，原始28.54GB   
-[百度网盘](https://pan.baidu.com/s/1FxxJK3Il3F-AKd9tGXbcnw?pwd=pkwy) 
+更新清洗后的语料中
 
 20230105.zip 压缩包15.32GB，原始35.18GB   
-[百度网盘](https://pan.baidu.com/s/14KT1Y24pXX5RYFUyQ1fIJw?pwd=fk62) 
+更新清洗后的语料中
 
 20230106.zip 压缩包8.87GB，原始19.45GB   
 [百度网盘](https://pan.baidu.com/s/1-t9olFvJsQsMAwgWTWtV2A?pwd=upyg) 
@@ -85,7 +85,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230107.zip 压缩包6.2GB，原始13.14GB   
 [百度网盘](https://pan.baidu.com/s/1NfuytYsAHqtACTs2Yfv-XA?pwd=eape) 
 
-20230108.zip 压缩包9.56GB，原始25.84GB  此包小文件众多,解压很慢   
+20230108.zip 压缩包9.56GB，原始25.84GB  
 [百度网盘](https://pan.baidu.com/s/1ZA3ljZ18LcLeUrjHyWH9Uw?pwd=kywq) 
 
 20230109.zip 压缩包7.63GB，原始20.84GB   
