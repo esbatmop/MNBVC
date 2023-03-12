@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量2180.1GB，目标是达到chatGPT的40T数据，目前进度5.4%。
+目前总数据量2213GB，目标是达到chatGPT的40T数据，目前进度5.4%。
 
 ### 数据说明
 压缩包密码为253874
@@ -46,8 +46,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
  + 急需组建OCR转码小组，目前1人，缺5人（需有CV、NLP算法背景，想用nlp辅助ocr转码，有业内此领域顶尖大佬带队指导）
  + 问答语料清洗小组，目前2人，缺4人（目前全是写python代码对齐问答项并人肉检查的苦力活，后面想利用算法模型做自动对齐）
+ + 待建语料增强小组，目前1人，缺5人（想利用nlp补全缺字的语料，并进行文本质量检测等）
  + 代码语料小组和平行语料小组还缺两个打杂（后面由组长来决定到底干嘛）
- + 待建语料增强小组（想利用nlp补全缺字的语料，并进行文本质量检测等）
  + 待建古文研究小组（研究地方志等古籍的转码，语料很多，难度很大）
 
 ### 语料集下载信息:
@@ -67,8 +67,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230101.zip 压缩包7.34GB，原始17.11GB   
 [百度网盘](https://pan.baidu.com/s/1TLEkczf5_pQlWcXwLPPcEw?pwd=78uq) 
 
-20230102.zip 压缩包22.14GB，原始29.58GB   
-更新清洗后的语料中
+20230102.zip 压缩包9.67GB，原始32.33GB   
+[百度网盘](https://pan.baidu.com/s/1oVt7e-MfTRYv7h_aaAX7yw?pwd=nnkc) 
 
 20230103.zip 压缩包12.35GB，原始27.97GB   
 更新清洗后的语料中
@@ -76,11 +76,11 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230104.zip 压缩包12.36GB，原始28.54GB   
 更新清洗后的语料中
 
-20230105.zip 压缩包15.32GB，原始35.18GB   
-更新清洗后的语料中
+20230105.zip 压缩包8.17GB，原始26.87GB   
+[百度网盘](https://pan.baidu.com/s/1KEZxJtatTHXQgp7g01jRWg?pwd=mh8s) 
 
-20230106.zip 压缩包8.87GB，原始19.45GB   
-[百度网盘](https://pan.baidu.com/s/1-t9olFvJsQsMAwgWTWtV2A?pwd=upyg) 
+20230106.zip 压缩包7.15GB，原始22.69GB   
+更新清洗后的语料中
 
 20230107.zip 压缩包6.2GB，原始13.14GB   
 [百度网盘](https://pan.baidu.com/s/1NfuytYsAHqtACTs2Yfv-XA?pwd=eape) 
@@ -315,4 +315,9 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230185.zip 压缩包11.52GB，原始24.72GB   
 [百度网盘](https://pan.baidu.com/s/1K9OLSk_ifXEyPvPj6GYNwQ?pwd=n2a9) 
+
+20230186.zip 压缩包10.57GB，原始35.28GB   
+[百度网盘](https://pan.baidu.com/s/1bJgyNItkRu6H-NFBaHjYpw?pwd=xqbf) 
+
+
 
