@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量2213GB，目标是达到chatGPT的40T数据，目前进度5.4%。
+目前总数据量2376.12GB，目标是达到chatGPT的40T数据，目前进度5.9%。
 
 ### 数据说明
 压缩包密码为253874
@@ -50,7 +50,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
  + 代码语料小组和平行语料小组还缺两个打杂（后面由组长来决定到底干嘛）
  + 待建古文研究小组（研究地方志等古籍的转码，语料很多，难度很大）
 
-### 语料集下载信息:
+### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
 通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包并接收更新    
 建议关闭tcp穿透、关闭udp传输的微力设置。如不关闭，微力有可能堵塞路由器（同时也许传输速度更快）    
@@ -70,17 +70,17 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230102.zip 压缩包9.67GB，原始32.33GB   
 [百度网盘](https://pan.baidu.com/s/1oVt7e-MfTRYv7h_aaAX7yw?pwd=nnkc) 
 
-20230103.zip 压缩包12.35GB，原始27.97GB   
-更新清洗后的语料中
+20230103.zip 压缩包9.77GB，原始32.59GB   
+[百度网盘](https://pan.baidu.com/s/1ZO7_RgcEmHW40gOh2BfGfA?pwd=cnv3)
 
-20230104.zip 压缩包12.36GB，原始28.54GB   
-更新清洗后的语料中
+20230104.zip 压缩包12.36GB，原始34.85GB   
+[百度网盘](https://pan.baidu.com/s/1cmEA15Y0Bk7sMo3BlIBMyg?pwd=v7me)
 
 20230105.zip 压缩包8.17GB，原始26.87GB   
 [百度网盘](https://pan.baidu.com/s/1KEZxJtatTHXQgp7g01jRWg?pwd=mh8s) 
 
 20230106.zip 压缩包7.15GB，原始22.69GB   
-更新清洗后的语料中
+[百度网盘](https://pan.baidu.com/s/1pUvxDaXL_rYzEz4MSMRN4A?pwd=eyvq) 
 
 20230107.zip 压缩包6.2GB，原始13.14GB   
 [百度网盘](https://pan.baidu.com/s/1NfuytYsAHqtACTs2Yfv-XA?pwd=eape) 
@@ -319,5 +319,17 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230186.zip 压缩包10.57GB，原始35.28GB   
 [百度网盘](https://pan.baidu.com/s/1bJgyNItkRu6H-NFBaHjYpw?pwd=xqbf) 
 
+20230187.zip 压缩包11.12GB，原始37.01GB   
+[百度网盘](https://pan.baidu.com/s/1LSD0EQpL6OLvPWExVXVpFA?pwd=am58) 
 
+20230188.zip 压缩包10.43GB，原始34.78GB   
+[百度网盘](https://pan.baidu.com/s/1sJFp5Ia6TBIylJU_VVEgcg?pwd=35x4) 
 
+20230189.zip 压缩包8.25GB，原始27.31GB   
+[百度网盘](https://pan.baidu.com/s/12S5a-1ljqcp-UQ5_3D4E3A?pwd=wc75) 
+
+20230190.zip 压缩包9.20GB，原始30.38GB   
+[百度网盘](https://pan.baidu.com/s/1ZA_TRw3gSAjzH8u2PmFJ4w?pwd=a8ce) 
+
+20230191.zip 压缩包7.13GB，原始22.7GB   
+[百度网盘](https://pan.baidu.com/s/1SNDtlRPnHP_Q3SrlBv-IgA?pwd=hvg1) 
