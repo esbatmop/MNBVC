@@ -95,7 +95,7 @@ class team5 {
   \自动化处理流程()
 }
 class team6 {
-  xclimbing等
+  xclimbing、皮皮、急云、Catoxs、Ryan
   \百度网盘、微力()
 }
 class 代码语料组 {
