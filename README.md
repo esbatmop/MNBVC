@@ -143,22 +143,22 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1WpxRHn9BUe92KzY4gZp_Ew?pwd=47kr) 
 
 20230128.zip 压缩包10.78GB，原始26.12GB   
-[百度网盘](https://pan.baidu.com/s/1t8UT44WCfn_n9soneFQY6g?pwd=je3u) 
+清洗后的语料更新中
 
 20230129.zip 压缩包13.72GB，原始31.09GB   
-[百度网盘](https://pan.baidu.com/s/1S1DJt97jqkSIj6ueeyqKHg?pwd=isqm) 
+清洗后的语料更新中
 
 20230130.zip 压缩包7.61GB，原始19.97GB   
 [百度网盘](https://pan.baidu.com/s/1HfVDxg8KatDnvsvHOjeEQg?pwd=k8ue) 
 
 20230131.zip 压缩包8.13GB，原始20.53GB   
-[百度网盘](https://pan.baidu.com/s/1AQWTzZ6pWD85-Ys1dMBUfQ?pwd=79ti) 
+清洗后的语料更新中
 
 20230132.zip 压缩包7.28GB，原始18.52GB   
-[百度网盘](https://pan.baidu.com/s/1AckyTz86Fr0pQLZktoTvLg?pwd=aabc) 
+清洗后的语料更新中
 
 20230133.zip 压缩包6.95GB，原始17.54GB   
-[百度网盘](https://pan.baidu.com/s/1Fj4JYvnEsu57ppirSHPoLw?pwd=97dd) 
+清洗后的语料更新中
 
 20230134.zip 压缩包5.20GB，原始21.87GB   
 [百度网盘](https://pan.baidu.com/s/1mNrLcphIo7K3RugtvsMcDA?pwd=t3xd) 
@@ -185,10 +185,10 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1ubwTEvoAeoDV5wk129EaUQ?pwd=3q8i)
 
 20230142.zip 压缩包9.48GB，原始23.9GB   
-[百度网盘](https://pan.baidu.com/s/1_YxsXy2LxKgrxsJgbaAGLQ?pwd=cicv) 
+清洗后的语料更新中
 
 20230143.zip 压缩包12.16GB，原始27.23GB   
-[百度网盘](https://pan.baidu.com/s/1BHxJzh6aXgrSvxM6pMuKLw?pwd=b2es)  
+清洗后的语料更新中
 
 20230144.zip 压缩包6.42GB，原始32.05GB   
 [百度网盘](https://pan.baidu.com/s/1qBNIAo_uEmhY3yO1TaVV0A?pwd=ea8r)  
@@ -284,7 +284,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/19AU0h27WrdAZMfSSBh2UIQ?pwd=bant) 
 
 20230175.zip 压缩包7.14GB，原始18.25GB   
-[百度网盘](https://pan.baidu.com/s/1EUgyvfK5IE7SqqRw-ug-qw?pwd=w13t) 
+清洗后的语料更新中
 
 20230176.zip 压缩包7.1GB，原始18.74GB   
 [百度网盘](https://pan.baidu.com/s/16wb-5DdKn0RRqtivt8KSXA?pwd=x721) 
