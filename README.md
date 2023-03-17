@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量2376.12GB，目标是达到chatGPT的40T数据，目前进度5.9%。
+目前总数据量2552.28GB，目标是达到chatGPT的40T数据，目前进度6.4%。
 
 ### 数据说明
 压缩包密码为253874
@@ -142,23 +142,23 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230127.zip 压缩包10.73GB，原始27.12GB   
 [百度网盘](https://pan.baidu.com/s/1WpxRHn9BUe92KzY4gZp_Ew?pwd=47kr) 
 
-20230128.zip 压缩包10.78GB，原始26.12GB   
-清洗后的语料更新中
+20230128.zip 压缩包8.94B，原始27.31GB   
+[百度网盘](https://pan.baidu.com/s/1fBGdv2V8ZHjJCA_Snjc5Bw?pwd=4de7) 
 
-20230129.zip 压缩包13.72GB，原始31.09GB   
-清洗后的语料更新中
+20230129.zip 压缩包9.76GB，原始32.36GB   
+[百度网盘](https://pan.baidu.com/s/188AqbYAEmPHgq0y3LYWe0g?pwd=36vt) 
 
 20230130.zip 压缩包7.61GB，原始19.97GB   
 [百度网盘](https://pan.baidu.com/s/1HfVDxg8KatDnvsvHOjeEQg?pwd=k8ue) 
 
-20230131.zip 压缩包8.13GB，原始20.53GB   
-清洗后的语料更新中
+20230131.zip 压缩包10.39GB，原始31.62GB   
+[百度网盘](https://pan.baidu.com/s/11Yi8-BQyr-jSMW-6m_I2ow?pwd=rjmt) 
 
-20230132.zip 压缩包7.28GB，原始18.52GB   
-清洗后的语料更新中
+20230132.zip 压缩包9.41GB，原始28.9GB   
+[百度网盘](https://pan.baidu.com/s/1bw1SdL0eDoc_gE0pbfXmNg?pwd=6ic3) 
 
-20230133.zip 压缩包6.95GB，原始17.54GB   
-清洗后的语料更新中
+20230133.zip 压缩包9.39GB，原始29.51GB   
+[百度网盘](https://pan.baidu.com/s/1dGz9PytYNRes8Hu9VIJrHg?pwd=ju2j) 
 
 20230134.zip 压缩包5.20GB，原始21.87GB   
 [百度网盘](https://pan.baidu.com/s/1mNrLcphIo7K3RugtvsMcDA?pwd=t3xd) 
@@ -184,11 +184,11 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230141.zip 压缩包4.59GB，原始20.41GB   
 [百度网盘](https://pan.baidu.com/s/1ubwTEvoAeoDV5wk129EaUQ?pwd=3q8i)
 
-20230142.zip 压缩包9.48GB，原始23.9GB   
-清洗后的语料更新中
+20230142.zip 压缩包9.59GB，原始31.03GB   
+[百度网盘](https://pan.baidu.com/s/1xXn5ryqwVJ3gaCTzc7tQEQ?pwd=gjci) 
 
-20230143.zip 压缩包12.16GB，原始27.23GB   
-清洗后的语料更新中
+20230143.zip 压缩包8.24GB，原始27.07GB   
+[百度网盘](https://pan.baidu.com/s/1k7H_LGf3MiQhAVWYHnQWuA?pwd=dcju) 
 
 20230144.zip 压缩包6.42GB，原始32.05GB   
 [百度网盘](https://pan.baidu.com/s/1qBNIAo_uEmhY3yO1TaVV0A?pwd=ea8r)  
@@ -283,8 +283,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230174.zip 压缩包5.51GB，原始14.56GB   
 [百度网盘](https://pan.baidu.com/s/19AU0h27WrdAZMfSSBh2UIQ?pwd=bant) 
 
-20230175.zip 压缩包7.14GB，原始18.25GB   
-清洗后的语料更新中
+20230175.zip 压缩包10.23GB，原始31.73GB   
+[百度网盘](https://pan.baidu.com/s/1eFYqfGqM46sWebHBCyl0pA?pwd=53q9) 
 
 20230176.zip 压缩包7.1GB，原始18.74GB   
 [百度网盘](https://pan.baidu.com/s/16wb-5DdKn0RRqtivt8KSXA?pwd=x721) 
@@ -333,3 +333,16 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 20230191.zip 压缩包7.13GB，原始22.7GB   
 [百度网盘](https://pan.baidu.com/s/1SNDtlRPnHP_Q3SrlBv-IgA?pwd=hvg1) 
+
+20230192.zip 压缩包10.19GB，原始33.39GB   
+[百度网盘](https://pan.baidu.com/s/1wE0hsN_HP1P2l7QPCOi4zA?pwd=4b3g) 
+
+20230193.zip 压缩包10.51GB，原始34.59GB   
+[百度网盘](https://pan.baidu.com/s/13xlR40gtMXN0JV7GHn1tyg?pwd=5288) 
+
+20230194.zip 压缩包10.40GB，原始33.9GB   
+[百度网盘](https://pan.baidu.com/s/1_gmdRVK-zWJHMDkrlS_0Cw?pwd=rw37) 
+
+20230195.zip 压缩包5.39GB，原始17.93GB   
+[百度网盘](https://pan.baidu.com/s/1mI1GVi-Ytnh92APH7U4PgQ?pwd=ms9t) 
+
