@@ -38,6 +38,14 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 更快速且准确的中文编码检测工具：[charset_mnbvc](https://github.com/alanshi/charset_mnbvc)    
 将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)    
 
+### 代码仓库爬虫工具
+
+现有各个开源代码语料集都有很严重的人为过滤现象，这让追赶chatGPT变得更为困难。为避免重复劳动，提供经过MNBVC大规模验证后的代码仓库爬虫代码。
+
+1.爬取代码仓库目录：[publicRepos_mnbvc](https://github.com/washing1127/publicRepos_mnbvc)
+2.爬取代码仓库最新版本代码：待提供
+3.爬取commit记录：待提供
+
 ### huggingface
 
 清洗完成的分类数据将陆续放到：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
