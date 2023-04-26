@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量2774.1GB，目标是达到chatGPT的40T数据，目前进度7%。
+目前总数据量3508.3GB，目标是达到chatGPT的40T数据，目前进度8.8%。
 
 ### 数据说明
 压缩包密码为253874
@@ -367,5 +367,52 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1fUF5uorCd5CMgPe5oE3CZw?pwd=kewu) 
 
 20230305.zip 压缩包2.75GB，原始50.3GB   
-[百度网盘](https://pan.baidu.com/s/1jtux-hmi5-aOvbxPK_RvzA?pwd=529z) 
+[百度网盘](https://pan.baidu.com/s/1jtux-hmi5-aOvbxPK_RvzA?pwd=529z)
+
+20230306.zip 压缩包2.61GB，原始48.18GB   
+[百度网盘](https://pan.baidu.com/s/1VJOpdWbv-3PuKZhMkKRM0g?pwd=6gd5) 
+
+20230307.zip 压缩包2.62GB，原始48.24GB   
+[百度网盘](https://pan.baidu.com/s/1sCxLzEGQrKN3pmniPjFdWA?pwd=n8dg) 
+
+20230308.zip 压缩包2.59GB，原始47.55GB   
+[百度网盘](https://pan.baidu.com/s/1wkrs40xWmXE0KYY8_gHQ0Q?pwd=3yrx) 
+
+20230309.zip 压缩包2.74GB，原始50.27GB   
+[百度网盘](https://pan.baidu.com/s/1fTzsRPeVTT4qHjZK0ow2yg?pwd=f985) 
+
+20230310.zip 压缩包2.82GB，原始51.62GB   
+[百度网盘](https://pan.baidu.com/s/17znl0fpkXziC5B6HFAI5rA?pwd=xmwy) 
+
+20230311.zip 压缩包2.63GB，原始48.22GB   
+[百度网盘](https://pan.baidu.com/s/1Sa1dqp6J0i7LbZmawtRZrQ?pwd=5p84) 
+
+20230312.zip 压缩包2.65GB，原始48.4GB   
+[百度网盘](https://pan.baidu.com/s/1q6Iwnxo4dMtwT1EIW6h1zQ?pwd=f9xn) 
+
+20230313.zip 压缩包2.60GB，原始47.15GB   
+[百度网盘](https://pan.baidu.com/s/1slkwtW6QiqCr7etCLn5s7A?pwd=4u9r) 
+
+20230314.zip 压缩包2.83GB，原始51.72GB   
+[百度网盘](https://pan.baidu.com/s/1if2aypPWpBBp2tBiODei2w?pwd=pn3c) 
+
+20230315.zip 压缩包2.79GB，原始51.48GB   
+[百度网盘](https://pan.baidu.com/s/13cxlSuNm9ydXeSF5gudFjQ?pwd=ctas) 
+
+20230316.zip 压缩包2.82GB，原始51.72GB   
+[百度网盘](https://pan.baidu.com/s/192LJy4H_yyZ7_7UypKJmCw?pwd=vngv) 
+
+20230317.zip 压缩包2.59GB，原始47.78GB   
+[百度网盘](https://pan.baidu.com/s/1wutho4Gi-v6ijIcGN9B6UA?pwd=gb82) 
+
+20230318.zip 压缩包2.52GB，原始46.36GB   
+[百度网盘](https://pan.baidu.com/s/17dM3cTVj1JPmCQWOCsNdTw?pwd=j2mx) 
+
+20230319.zip 压缩包2.57GB，原始47.59GB   
+[百度网盘](https://pan.baidu.com/s/144sTA-1-SCQeOK0ICPZhUA?pwd=3jd4) 
+
+20230320.zip 压缩包2.59GB，原始47.92GB   
+[百度网盘](https://pan.baidu.com/s/1X4ITkMwqCNDCddyOOJDRqQ?pwd=1iw8) 
+
+
 
