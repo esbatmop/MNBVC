@@ -283,7 +283,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 [百度网盘](https://pan.baidu.com/s/1y7yA7AmunAJmtG8JsmJnGw?pwd=31xd) 
 
 20230172.zip 压缩包2.03GB，原始8.75GB   
-[百度网盘](https://pan.baidu.com/s/1d3DnvpcHku4cHB6b4hjjjw?pwd=v619) 
+[百度网盘](https://pan.baidu.com/s/1EAh-ud5wt2y_P4b2KBhGeg?pwd=2grk) 
 
 20230173.zip 压缩包9.70GB，原始25.02GB   
 [百度网盘](https://pan.baidu.com/s/1XnA6P04mNQm0J_tRnWYy_w?pwd=hi2s) 
