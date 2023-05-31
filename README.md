@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量3518.6GB，目标是达到chatGPT的40T数据，目前进度8.9%。
+目前总数据量4938GB，目标是达到chatGPT的40T数据，目前进度12.3%。
 
 ### 数据说明
 压缩包密码为253874
@@ -417,5 +417,132 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230320.zip 压缩包2.59GB，原始47.92GB   
 [百度网盘](https://pan.baidu.com/s/1X4ITkMwqCNDCddyOOJDRqQ?pwd=1iw8) 
 
+20230320.zip 压缩包2.59GB，原始47.92GB   
+[百度网盘](https://pan.baidu.com/s/1X4ITkMwqCNDCddyOOJDRqQ?pwd=1iw8) 
 
+20230321.zip 暂无
 
+20230322.zip 压缩包2.5GB，原始41GB   
+[百度网盘](https://pan.baidu.com/s/1uKPXaecYFuLpZi9GA9Et4Q?pwd=faqd) 
+
+20230323.zip 压缩包2.5GB，原始41GB   
+[百度网盘](https://pan.baidu.com/s/1v99-VtGal1UUa2vcT_0SCQ?pwd=f7rm) 
+
+20230324.zip 压缩包2.3GB，原始39GB   
+[百度网盘](https://pan.baidu.com/s/1TE48ML48B9dbwDrwgPX3Bg?pwd=hxa3) 
+
+20230325.zip 压缩包2.4GB，原始40GB   
+[百度网盘](https://pan.baidu.com/s/1fav6ccKxGCrpcdYoGR0DNw?pwd=x6qf) 
+
+20230326.zip 压缩包2.3GB，原始38GB   
+[百度网盘](https://pan.baidu.com/s/1qvm9j9UD7pFmkO7nZjUVgA?pwd=mdbe) 
+
+20230327.zip 压缩包2.4GB，原始40GB   
+[百度网盘](https://pan.baidu.com/s/1kXf1vyz9efqawkbQNDBg2A?pwd=ivd7) 
+
+20230328.zip 压缩包2.3GB，原始38GB   
+[百度网盘](https://pan.baidu.com/s/1AXfhNlC3AyAFiEgAmNPe3w?pwd=9qtw) 
+
+20230329.zip 压缩包2.2GB，原始37GB   
+[百度网盘](https://pan.baidu.com/s/1cib2RTIu__o-ZPawZWbIww?pwd=23gi) 
+
+20230330.zip 压缩包2.2GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/16KBHQQqpPbywUppFONXh8A?pwd=bkbd) 
+
+20230331.zip 压缩包2.2GB，原始37GB   
+[百度网盘](https://pan.baidu.com/s/1R_XQ45BUEx0j1i3z2S-8CA?pwd=huuq) 
+
+20230332.zip 压缩包2.1GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/1qat4UppSrzTWQumtFfzN5g?pwd=b7j5) 
+
+20230333.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1JVZu184bTH2TYntqZRS5Vw?pwd=hahx) 
+
+20230334.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1MQ6J1NJuy8T6yjaaWAgPMQ?pwd=id1y) 
+
+20230335.zip 压缩包2GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1xfrIobHA0mIFyQVYEJMEMg?pwd=tiyc) 
+
+20230336.zip 压缩包2.1GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1h-IDalMRZceoosLf5BduBg?pwd=9d1d) 
+
+20230337.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1vnWLoUF50-QrynhAs2MDfA?pwd=cwxe) 
+
+20230338.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1ETv4-7v6yIaIzu7ufI78NQ?pwd=5jbv) 
+
+20230339.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1N1F9YNixn2F-1bSxyE81_Q?pwd=s3v8) 
+
+20230340.zip 暂无
+
+20230341.zip 压缩包2.1GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1XWRLRqoSClK3d4pxkuZ06Q?pwd=nx6j) 
+
+20230342.zip 压缩包2GB，原始33GB   
+[百度网盘](https://pan.baidu.com/s/1Bx-dBqx31C_LlTIbsBH3Rw?pwd=pkmv) 
+
+20230343.zip 压缩包2GB，原始33GB   
+[百度网盘](https://pan.baidu.com/s/1KwzLBaqdQxXOa2uHALCdDw?pwd=2jb2) 
+
+20230344.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1s2pozsUGAlHUlovYGSnAwg?pwd=dq3c) 
+
+20230345.zip 压缩包2.2GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/1-MnItvMUZafqq_-IF1uEfg?pwd=f8jy) 
+
+20230346.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1bnD8Jz92CgKccoKvPeRCTA?pwd=rqit) 
+
+20230347.zip 压缩包2.2GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/1QCJ9M_qFtHKXmYopjyM6nA?pwd=94g3) 
+
+20230348.zip 压缩包2.2GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/1GOzFYwnduC9KR2IXoaC_lw?pwd=gc4u) 
+
+20230349.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1IzioS2Myp8yQ5BQymBMYGA?pwd=bfyt) 
+
+20230350.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/17wn5c_eCJ3mdSVUsYpLLcw?pwd=ja79) 
+
+20230351.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1HZ12-kuSASP36o8Hs_frlg?pwd=q1xr) 
+
+20230352.zip 压缩包2.2GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/14ti9CZzXe99CSeAVYSg6nQ?pwd=rgin) 
+
+20230353.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1lBAmyE9T4bEk7bx5Ee75cA?pwd=2deu) 
+
+20230354.zip 压缩包2GB，原始33GB   
+[百度网盘](https://pan.baidu.com/s/1DtF4U6KlfJrrKxpevxYPkw?pwd=qfy7) 
+
+20230355.zip 压缩包1.7GB，原始28GB   
+[百度网盘](https://pan.baidu.com/s/1Kc6p4-FhVUapcW5OdqXpoA?pwd=usd2) 
+
+20230356.zip 压缩包1.7GB，原始28GB   
+[百度网盘](https://pan.baidu.com/s/1DQ5DbSK6SeYDPpf-G675bA?pwd=akry) 
+
+20230357.zip 压缩包2GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/104dEH2rN3D5oGhQvNHaVkA?pwd=buq4) 
+
+20230358.zip 压缩包2GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1hD3T0h_qX-vKedQk81ON5w?pwd=nswk) 
+
+20230359.zip 压缩包2.1GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1c-znc5OTkPL0swqAsw4oNg?pwd=vdgw) 
+
+20230360.zip 压缩包2.1GB，原始34GB   
+[百度网盘](https://pan.baidu.com/s/1C767LlBMvWcDVvozF1hMgQ?pwd=rn3w) 
+
+20230361.zip 压缩包2.1GB，原始35GB   
+[百度网盘](https://pan.baidu.com/s/1pk8GvCzCixEhWxoeLMOIGg?pwd=h4z2) 
+
+20230362.zip 压缩包2.2GB，原始36GB   
+[百度网盘](https://pan.baidu.com/s/1yBVlmgaZWoTCiPitrrb0Xg?pwd=96pj) 
+
+20230363.zip 压缩包2.3GB，原始38GB   
+[百度网盘](https://pan.baidu.com/s/17YoKw1vlWElFxMBRWIUwXg?pwd=t8ex) 
