@@ -12,7 +12,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 进度
 
-目前总数据量4938GB，目标是达到chatGPT的40T数据，目前进度12.3%。
+目前总数据量5004GB，目标是达到chatGPT的40T数据，目前进度12.5%。
 
 ### 数据说明
 压缩包密码为253874
@@ -420,7 +420,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230320.zip 压缩包2.59GB，原始47.92GB   
 [百度网盘](https://pan.baidu.com/s/1X4ITkMwqCNDCddyOOJDRqQ?pwd=1iw8) 
 
-20230321.zip 暂无
+20230321.zip 压缩包2.48GB，原始44GB
+[百度网盘](https://pan.baidu.com/s/1hOBwhmUXTyqdIO06a0r7uA?pwd=as7q) 
 
 20230322.zip 压缩包2.5GB，原始41GB   
 [百度网盘](https://pan.baidu.com/s/1uKPXaecYFuLpZi9GA9Et4Q?pwd=faqd) 
@@ -476,7 +477,8 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 20230339.zip 压缩包2.1GB，原始35GB   
 [百度网盘](https://pan.baidu.com/s/1N1F9YNixn2F-1bSxyE81_Q?pwd=s3v8) 
 
-20230340.zip 暂无
+20230340.zip 压缩包1.83GB，原始32GB
+[百度网盘](https://pan.baidu.com/s/1hOGXLMPUcJQ31IebpZ9dyg?pwd=c1xt) 
 
 20230341.zip 压缩包2.1GB，原始34GB   
 [百度网盘](https://pan.baidu.com/s/1XWRLRqoSClK3d4pxkuZ06Q?pwd=nx6j) 
