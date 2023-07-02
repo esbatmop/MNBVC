@@ -69,4 +69,4 @@ wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/Wiki
 >[微力直达链接](https://link.verysync.com/#f=MNBVC%40xclimbing&sz=105E4&k=P4AJDJXHY3RCCOCDJZX3S7HO7FKK4X2NSOLXFAFGFVGPDRP7COTVIE&d=SJZHVB7GAZZLS2ZN43D3NNEBHPMU&t=1&tm=1676793101554&v=v2.16.0&a=1
 )
 
-2.通过百度网盘下载：[每个压缩包的百度网盘下载链接|baidupan.md]
+2.通过百度网盘下载：[每个压缩包的百度网盘下载链接](baidupan.md)
