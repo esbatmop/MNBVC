@@ -60,6 +60,7 @@ MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星
 
 ### 各种清洗代码
 wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)
+中国外交部发言清洗代码：[QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc](https://github.com/UnstoppableCurry/QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc)
 
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
