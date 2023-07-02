@@ -1,6 +1,6 @@
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
-####百度网盘
+百度网盘各个包的下载地址：
 
 20221224.zip 压缩包4.57GB，原始13.45GB   
 [百度网盘](https://pan.baidu.com/s/19DWSU68IukKWQqoEgjuVRQ?pwd=dh2n) 
