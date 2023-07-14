@@ -48,8 +48,8 @@
 为处理大规模的中文语料，MNBVC项目组的同学在现有开源软件基础上做了优化，提供了更高效的版本:  
 
 更快速且准确的中文编码检测工具：[charset_mnbvc](https://github.com/alanshi/charset_mnbvc)    
-将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc) 
-从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
+将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)   
+从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
 
 ### github代码仓库爬虫工具
 
