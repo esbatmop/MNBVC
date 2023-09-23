@@ -12,7 +12,7 @@
 
 ### 进度
 
-目前总数据量14243GB，目标是达到chatGPT的40T数据，目前进度35.6%。  
+目前总数据量16561GB，目标是达到chatGPT的40T数据，目前进度41.4%。  
 
 ### 数据说明
 压缩包密码为253874
@@ -68,7 +68,8 @@
 ### 各种清洗代码
 wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
 中国外交部发言清洗代码：[QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc](https://github.com/UnstoppableCurry/QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc)    
-各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)
+各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)   
+stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)   
 
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
