@@ -48,9 +48,6 @@
 
 即使没空帮助项目做开发，也可以通过参加 ([语料元气弹](https://mnbvc.253874.net/upload/form.htm)) 项目，随手上传语料文档，来参与MNBVC语料集的建设。
 
-MNBVC项目建设了([Wiki系统](https://wiki.mnbvc.org))，它诞生的初衷是MNBVC开源项目团队在中文语料库建设过程中积累了一些项目经验，希望通过wiki系统记录和分享，以帮助未来参与相关项目的开发者。
-MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
-
 ### 中文大语料清洗工具
 
 为处理大规模的中文语料，MNBVC项目组的同学在现有开源软件基础上做了优化，提供了更高效的版本:  
@@ -58,6 +55,7 @@ MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
 更快速且准确的中文编码检测工具：[charset_mnbvc](https://github.com/alanshi/charset_mnbvc)    
 将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)   
 从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
+将MNBVC语料格式统一的格式检查工具：[DataCheck_MNBVC](https://github.com/X94521/DataCheck_MNBVC)
 
 ### github代码仓库爬虫工具
 
@@ -67,6 +65,10 @@ MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
  + 爬取代码仓库最新版本代码：[github_downloader_mnbvc](https://github.com/imgingroot/github_downloader_mnbvc)
  + 将代码转为语料：[githubcode_extractor_mnbvc](https://github.com/LinnaWang76/githubcode_extractor_mnbvc)
  + 爬取commit记录：待提供
+
+### 多模态处理工具
+PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)
+PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
 
 ### 各种清洗代码
 wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
@@ -83,3 +85,8 @@ stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/s
 )
 
 2.通过百度网盘下载：[每个压缩包的百度网盘下载链接](dupan/README.md)
+
+### 其他
+
+MNBVC项目建设了([Wiki系统](https://wiki.mnbvc.org))，它诞生的初衷是MNBVC开源项目团队在中文语料库建设过程中积累了一些项目经验，希望通过wiki系统记录和分享，以帮助未来参与相关项目的开发者。
+MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
