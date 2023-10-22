@@ -69,13 +69,16 @@
 ### 多模态处理工具
  + PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
  + PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
+ + 第一版的pdf转txt工具：[pdf2txt_mnbvc](https://github.com/jayhenry/pdf2txt_mnbvc)  
 
 ### 各种清洗代码
  + wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
  + 中国外交部发言清洗代码：[QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc](https://github.com/UnstoppableCurry/QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc)    
  + 各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)   
- + stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)   
-
+ + stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)
+ + 平行语料的清洗代码：[parallel_corpus_mnbvc](https://github.com/liyongsea/parallel_corpus_mnbvc)  
+ + 试卷的清洗代码：[Exam-Question-Bank-Dataset-zh_mnbvc](https://github.com/UnstoppableCurry/Exam-Question-Bank-Dataset-zh_mnbvc)  
+ 
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
 1.通过[p2p微力](http://www.verysync.com/manual/)同步全部压缩包并接收更新    
