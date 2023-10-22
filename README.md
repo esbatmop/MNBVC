@@ -52,10 +52,10 @@
 
 为处理大规模的中文语料，MNBVC项目组的同学在现有开源软件基础上做了优化，提供了更高效的版本:  
 
-更快速且准确的中文编码检测工具：[charset_mnbvc](https://github.com/alanshi/charset_mnbvc)    
-将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)   
-从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
-将MNBVC语料格式统一的格式检查工具：[DataCheck_MNBVC](https://github.com/X94521/DataCheck_MNBVC)
+ + 更快速且准确的中文编码检测工具：[charset_mnbvc](https://github.com/alanshi/charset_mnbvc)    
+ + 将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)   
+ + 从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
+ + 将MNBVC语料格式统一的格式检查工具：[DataCheck_MNBVC](https://github.com/X94521/DataCheck_MNBVC)
 
 ### github代码仓库爬虫工具
 
@@ -67,14 +67,14 @@
  + 爬取commit记录：待提供
 
 ### 多模态处理工具
-PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
-PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
+ + PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
+ + PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
 
 ### 各种清洗代码
-wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
-中国外交部发言清洗代码：[QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc](https://github.com/UnstoppableCurry/QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc)    
-各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)   
-stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)   
+ + wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
+ + 中国外交部发言清洗代码：[QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc](https://github.com/UnstoppableCurry/QA_with_reporters_from_the_Ministry_of_Foreign_Affair_mnbvc)    
+ + 各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)   
+ + stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)   
 
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
