@@ -67,7 +67,7 @@
  + 爬取commit记录：待提供
 
 ### 多模态处理工具
-PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)
+PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
 PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
 
 ### 各种清洗代码
