@@ -57,12 +57,13 @@
  + 从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
  + 将MNBVC语料格式统一的格式检查工具：[DataCheck_MNBVC](https://github.com/X94521/DataCheck_MNBVC)
 
-### github代码仓库爬虫工具
+### 代码仓库爬虫工具
 
 现有各个开源代码语料集都有很严重的人为过滤现象，这让追赶chatGPT变得更为困难。为避免重复劳动，提供经过MNBVC大规模验证后的代码仓库爬虫代码。
 
- + 爬取代码仓库meta信息：[publicRepos_mnbvc](https://github.com/washing1127/publicRepos_mnbvc)
- + 爬取代码仓库最新版本代码：[github_downloader_mnbvc](https://github.com/imgingroot/github_downloader_mnbvc)
+ + 爬取github代码仓库meta信息：[publicRepos_mnbvc](https://github.com/washing1127/publicRepos_mnbvc)
+ + 爬取github代码仓库最新版本代码：[github_downloader_mnbvc](https://github.com/imgingroot/github_downloader_mnbvc)
+ + 爬取notabug代码仓库：[notabug_download_mnbvc](https://github.com/gezi2333/notabug_download_mnbvc)
  + 将代码转为语料：[githubcode_extractor_mnbvc](https://github.com/LinnaWang76/githubcode_extractor_mnbvc)
  + 爬取commit记录：待提供
 
