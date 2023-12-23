@@ -78,7 +78,10 @@
  + 各类数学题清洗代码：[Math_mnbvc](https://github.com/X94521/Math_mnbvc)   
  + stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)
  + 平行语料的清洗代码：[parallel_corpus_mnbvc](https://github.com/liyongsea/parallel_corpus_mnbvc)  
- + 试卷的清洗代码：[Exam-Question-Bank-Dataset-zh_mnbvc](https://github.com/UnstoppableCurry/Exam-Question-Bank-Dataset-zh_mnbvc)  
+ + 试卷的清洗代码：[Exam-Question-Bank-Dataset-zh_mnbvc](https://github.com/UnstoppableCurry/Exam-Question-Bank-Dataset-zh_mnbvc)
+
+### 其他小工具
+ + 从目录中指定后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
  
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
