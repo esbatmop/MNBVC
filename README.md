@@ -4,9 +4,9 @@
 
 响应[符尧博士的号召](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)，危机存亡之秋，为避免技术断代，为将几千年历史的中文之美传承给AI。
 
-中文互联网上最古老最神秘(没有之一)的[里屋社区](http://mnbvc.253874.net/)于2023.1.1庄重宣布:
+中文互联网上最古老最神秘(没有之一)的[MOP里屋社区](http://mnbvc.253874.net/)于2023.1.1庄重宣布:
 
-**在英明神武的里屋管子带领下，决心发挥社区所长(哪都长)，帮助开源社区长期更新一份最大的中文互联网语料集**
+**在英明神武的猫扑里屋管子带领下，决心发挥社区所长(哪都长)，帮助开源社区长期更新一份最大的中文互联网语料集**
 
 [MNBVC数据集](https://wiki.mnbvc.org)不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网收集。
 
@@ -97,3 +97,18 @@
 
 MNBVC项目建设了([Wiki系统](https://wiki.mnbvc.org))，它诞生的初衷是MNBVC开源项目团队在中文语料库建设过程中积累了一些项目经验，希望通过wiki系统记录和分享，以帮助未来参与相关项目的开发者。
 MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
+
+### Citation
+
+Please cite the repo if you use the data or code in this repo.
+
+```
+@misc{mnbvc,
+  author = {{MOP Liwu Forum} and {MNBVC Team}},
+  title = {MNBVC: Massive Never-ending BT Vast Chinese corpus},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/esbatmop/MNBVC}},
+}
+```
