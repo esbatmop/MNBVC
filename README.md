@@ -6,7 +6,7 @@
 
 中文互联网上最古老最神秘(没有之一)的[MOP里屋社区](http://mnbvc.253874.net/)于2023.1.1庄重宣布:
 
-**在英明神武的猫扑里屋管子带领下，决心发挥社区所长(哪都长)，帮助开源社区长期更新一份最大的中文互联网语料集**
+**在英明神武的猫扑管子带领下，决心发挥社区所长(哪都长)，帮助开源社区长期更新一份最大的中文互联网语料集**
 
 [MNBVC数据集](https://wiki.mnbvc.org)不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网收集。
 
@@ -104,7 +104,7 @@ Please cite the repo if you use the data or code in this repo.
 
 ```
 @misc{mnbvc,
-  author = {{MOP Liwu Forum} and {MNBVC Team}},
+  author = {{MOP-LIWU Community} and {MNBVC Team}},
   title = {MNBVC: Massive Never-ending BT Vast Chinese corpus},
   year = {2023},
   publisher = {GitHub},
