@@ -82,6 +82,7 @@
 
 ### 其他小工具
  + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
+ + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/wyzhangyuhan/chinaxivCrawler_mnbvc)
  
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
