@@ -86,7 +86,7 @@
 20230127.zip 压缩包10.73GB，原始27.12GB   
 [百度网盘](https://pan.baidu.com/s/1WpxRHn9BUe92KzY4gZp_Ew?pwd=47kr) 
 
-20230128.zip 压缩包8.94B，原始27.31GB   
+20230128.zip 压缩包8.94GB，原始27.31GB   
 [百度网盘](https://pan.baidu.com/s/1fBGdv2V8ZHjJCA_Snjc5Bw?pwd=4de7) 
 
 20230129.zip 压缩包9.76GB，原始32.36GB   
@@ -110,7 +110,7 @@
 20230135.zip 压缩包11.52GB，原始44.48GB   
 [百度网盘](https://pan.baidu.com/s/1X57pgZO0VhqfXXvK6pMneA?pwd=bjs2)
 
-20230136.zip 压缩包11.71GB，原始46.15B   
+20230136.zip 压缩包11.71GB，原始46.15GB   
 [百度网盘](https://pan.baidu.com/s/17XB9XJFqHFdh7xutWOUhlg?pwd=ji68)
 
 20230137.zip 压缩包12.49GB，原始48.95GB   
@@ -1616,7 +1616,7 @@
 20230682.zip 压缩包12.57GB，原始73.77GB   
 [百度网盘](https://pan.baidu.com/s/1f9s15WazyM1dFeJMufmkkA?pwd=jux1)   
 
-20230683.zip 压缩包12.01B，原始68.72GB   
+20230683.zip 压缩包12.01GB，原始68.72GB   
 [百度网盘](https://pan.baidu.com/s/172lpmIdXgny-MAyck6ZjrA?pwd=fkm3)   
 
 20230684.zip 压缩包13.11GB，原始83.43GB   
