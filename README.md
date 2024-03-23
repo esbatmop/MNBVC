@@ -79,6 +79,8 @@
  + stackexchange的清洗代码：[stackexchange_mnbvc](https://github.com/livehl/stackexchange_mnbvc)
  + 平行语料的清洗代码：[parallel_corpus_mnbvc](https://github.com/liyongsea/parallel_corpus_mnbvc)  
  + 试卷的清洗代码：[Exam-Question-Bank-Dataset-zh_mnbvc](https://github.com/UnstoppableCurry/Exam-Question-Bank-Dataset-zh_mnbvc)
+ + 裁判文书网的清洗代码：[MNBVC-judgment](https://github.com/wormtooth/MNBVC-judgment)
+ + 剧本杀的清洗代码：[MNBVC-pdf-extract](https://github.com/459737087/MNBVC-pdf-extract/)
 
 ### 其他小工具
  + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
