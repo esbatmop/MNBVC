@@ -94,11 +94,6 @@
 
 2.通过百度网盘下载：[每个压缩包的百度网盘下载链接](dupan/README.md)
 
-### 其他
-
-MNBVC项目建设了([Wiki系统](https://wiki.mnbvc.org))，它诞生的初衷是MNBVC开源项目团队在中文语料库建设过程中积累了一些项目经验，希望通过wiki系统记录和分享，以帮助未来参与相关项目的开发者。
-MNBVC-Wiki还托管发起MNBVC项目的里屋社区的百科全书内容。
-
 ### Citation
 
 Please cite the repo if you use the data or code in this repo.
