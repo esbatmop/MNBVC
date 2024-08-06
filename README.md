@@ -68,7 +68,8 @@
 ### 多模态处理工具
  + PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
  + PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
- + 第一版的pdf转txt工具：[pdf2txt_mnbvc](https://github.com/jayhenry/pdf2txt_mnbvc)  
+ + 第一版的pdf转txt工具：[pdf2txt_mnbvc](https://github.com/jayhenry/pdf2txt_mnbvc) 
+ + Arxiv文档解析工具：[Arxiv_mllm_mnbvc](https://github.com/flychen59/Arxiv_mllm_mnbvc) 
 
 ### 各种清洗代码
  + wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
@@ -83,6 +84,7 @@
 ### 其他小工具
  + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
  + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/wyzhangyuhan/chinaxivCrawler_mnbvc)
+ + 从warc中提取文件：[warc_extractor_mnbvc](https://github.com/akira-l/warc_extractor_mnbvc)
  
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
