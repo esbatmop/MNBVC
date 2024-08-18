@@ -62,6 +62,7 @@
  + 爬取github代码仓库meta信息：[publicRepos_mnbvc](https://github.com/washing1127/publicRepos_mnbvc)
  + 爬取github代码仓库最新版本代码：[github_downloader_mnbvc](https://github.com/imgingroot/github_downloader_mnbvc)
  + 爬取notabug代码仓库：[notabug_download_mnbvc](https://github.com/gezi2333/notabug_download_mnbvc)
+ + 爬取bitbucket代码仓库：[bitbucket_crawl_mnbvc](https://github.com/chenzhwsysu57/bitbucket_crawl_mnbvc)
  + 将代码转为语料：[githubcode_extractor_mnbvc](https://github.com/LinnaWang76/githubcode_extractor_mnbvc)
  + 爬取commit记录：待提供
 
