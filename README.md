@@ -86,6 +86,7 @@
  + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
  + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/wyzhangyuhan/chinaxivCrawler_mnbvc)
  + 从warc中提取文件：[warc_extractor_mnbvc](https://github.com/akira-l/warc_extractor_mnbvc)
+ + psyarxiv、chemrxiv、biorxiv、medrxiv的爬虫：[xxarxiv_mnbvc](https://github.com/isLinXu/xxarxiv_mnbvc)
  
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
