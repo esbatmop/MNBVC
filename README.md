@@ -64,7 +64,7 @@
  + 爬取notabug代码仓库：[notabug_download_mnbvc](https://github.com/gezi2333/notabug_download_mnbvc)
  + 爬取bitbucket代码仓库：[bitbucket_crawl_mnbvc](https://github.com/chenzhwsysu57/bitbucket_crawl_mnbvc)
  + 将代码转为语料：[githubcode_extractor_mnbvc](https://github.com/LinnaWang76/githubcode_extractor_mnbvc)
- + 爬取commit记录：待提供
+ + 爬取commit记录：[get_github_commit_mnbvc](https://github.com/ppmmaiwo/get_github_commit_mnbvc)
 
 ### 多模态处理工具
  + PDF元信息抽取工具：[pdf_meta_data_mnbvc](https://github.com/MIracleyin/pdf_meta_data_mnbvc)       
