@@ -81,6 +81,7 @@
  + 试卷的清洗代码：[Exam-Question-Bank-Dataset-zh_mnbvc](https://github.com/UnstoppableCurry/Exam-Question-Bank-Dataset-zh_mnbvc)
  + 裁判文书网的清洗代码：[MNBVC-judgment](https://github.com/wormtooth/MNBVC-judgment)
  + 剧本杀的清洗代码：[MNBVC-pdf-extract](https://github.com/459737087/MNBVC-pdf-extract/)
+ + DocLayNet的清洗代码：[DocLayNetPlus_mnbvc](https://github.com/luigide2020/DocLayNetPlus_mnbvc)
 
 ### 其他小工具
  + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
