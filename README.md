@@ -10,7 +10,7 @@
 
 ### 进度
 
-目前总数据量39268GB，目标是达到chatGPT3.5的40T数据，目前进度98.1%。  
+目前总数据量42778GB，目标是达到chatGPT3.5的40T数据，目前进度106.9%。  
 
 ### 数据说明
 压缩包密码为253874
@@ -84,7 +84,6 @@
  + DocLayNet的清洗代码：[DocLayNetPlus_mnbvc](https://github.com/luigide2020/DocLayNetPlus_mnbvc)
 
 ### 其他小工具
- + 从目录中指定文件后缀采样：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)
  + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/wyzhangyuhan/chinaxivCrawler_mnbvc)
  + 从warc中提取文件：[warc_extractor_mnbvc](https://github.com/akira-l/warc_extractor_mnbvc)
  + psyarxiv、chemrxiv、biorxiv、medrxiv的爬虫：[xxarxiv_mnbvc](https://github.com/isLinXu/xxarxiv_mnbvc)
