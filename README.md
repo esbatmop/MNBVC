@@ -84,7 +84,7 @@
  + DocLayNet的清洗代码：[DocLayNetPlus_mnbvc](https://github.com/luigide2020/DocLayNetPlus_mnbvc)
 
 ### 其他小工具
- + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/wyzhangyuhan/chinaxivCrawler_mnbvc)
+ + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/flychen59/chinaxivCrawler_mnbvc)
  + 从warc中提取文件：[warc_extractor_mnbvc](https://github.com/akira-l/warc_extractor_mnbvc)
  + psyarxiv、chemrxiv、biorxiv、medrxiv的爬虫：[xxarxiv_mnbvc](https://github.com/isLinXu/xxarxiv_mnbvc)
  
