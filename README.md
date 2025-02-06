@@ -10,7 +10,7 @@
 
 ### 进度
 
-目前总数据量42915GB，目标是达到253T数据，目前进度17%。  
+目前总数据量42975GB，目标是达到253T数据，目前进度17%。  
 
 ### 数据说明
 压缩包密码为253874
@@ -96,7 +96,7 @@
 >[微力直达链接](https://link.verysync.com/#f=MNBVC%40xclimbing&sz=105E4&k=P4AJDJXHY3RCCOCDJZX3S7HO7FKK4X2NSOLXFAFGFVGPDRP7COTVIE&d=SJZHVB7GAZZLS2ZN43D3NNEBHPMU&t=1&tm=1676793101554&v=v2.16.0&a=1
 )
 
-2.通过百度网盘下载：[每个压缩包的百度网盘下载链接](dupan/README.md)
+2.通过百度网盘下载：[1](dupan/README.md)[2](dupan/README2.md)
 
 ### Citation
 
