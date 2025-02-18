@@ -71,8 +71,8 @@
  + PDF解析规则工具：[mmdp_mnbvc](https://github.com/MIracleyin/mmdp_mnbvc)
  + 第一版的pdf转txt工具：[pdf2txt_mnbvc](https://github.com/jayhenry/pdf2txt_mnbvc) 
  + Arxiv文档解析工具：[Arxiv_mllm_mnbvc](https://github.com/flychen59/Arxiv_mllm_mnbvc) 
- + Arxiv图文对处理工具：：[ARXIV_IMAGE2CAPTION_mnbvc](https://github.com/KakaQK/ARXIV_IMAGE2CAPTION_mnbvc)
- + 将PDF文件转换为JSON和Markdown格式的工具：：[docling_parse_mnbvc](https://github.com/MIracleyin/docling_parse_mnbvc)
+ + Arxiv图文对处理工具：[ARXIV_IMAGE2CAPTION_mnbvc](https://github.com/KakaQK/ARXIV_IMAGE2CAPTION_mnbvc)
+ + 将PDF文件转换为JSON和Markdown格式的工具：[docling_parse_mnbvc](https://github.com/MIracleyin/docling_parse_mnbvc)
 
 ### 各种清洗代码
  + wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
