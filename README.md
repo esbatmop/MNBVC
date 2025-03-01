@@ -54,6 +54,7 @@
  + 将txt批量转成jsonl并挑出段落重复度高的文件：[deduplication_mnbvc](https://github.com/aplmikex/deduplication_mnbvc)   
  + 从多层目录中按关键词采样一定数量的文件并保留目录结构：[scan_copy_files_mnbvc](https://github.com/wanng-ide/scan_copy_files_mnbvc)   
  + 将MNBVC语料格式统一的格式检查工具：[DataCheck_MNBVC](https://github.com/X94521/DataCheck_MNBVC)
+ + 数据清洗示例及工具：[DataClean-MNBVC](https://github.com/wormtooth/DataClean-MNBVC)
 
 ### 代码仓库爬虫工具
 
@@ -89,6 +90,7 @@
  + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/flychen59/chinaxivCrawler_mnbvc)
  + 从warc中提取文件：[warc_extractor_mnbvc](https://github.com/akira-l/warc_extractor_mnbvc)
  + psyarxiv、chemrxiv、biorxiv、medrxiv的爬虫：[xxarxiv_mnbvc](https://github.com/isLinXu/xxarxiv_mnbvc)
+ + wipo的爬虫：[wipo_mnbvc](https://github.com/X-233/wipo_mnbvc)
  
 ### 语料集下载信息(每个压缩包都会随着清洗进度更新):
 
