@@ -74,6 +74,7 @@
  + Arxiv文档解析工具：[Arxiv_mllm_mnbvc](https://github.com/flychen59/Arxiv_mllm_mnbvc) 
  + Arxiv图文对处理工具：[ARXIV_IMAGE2CAPTION_mnbvc](https://github.com/KakaQK/ARXIV_IMAGE2CAPTION_mnbvc)
  + 将PDF文件转换为JSON和Markdown格式的工具：[docling_parse_mnbvc](https://github.com/MIracleyin/docling_parse_mnbvc)
+ + 将文本文件转化为parquet格式：[mm_template_mnbvc](https://github.com/MIracleyin/mm_template_mnbvc)
 
 ### 各种清洗代码
  + wikihow清洗代码：[WikiHowQAExtractor-mnbvc](https://github.com/wanicca/WikiHowQAExtractor-mnbvc)  
@@ -99,7 +100,7 @@
 >微力密钥part1: B4MVPVJTK3DOOAOPVLJ3E7TA7RWW4J2ZEAXJRMRSRHSBPDB7OAFHUQ    
 >[微力直达链接part1](https://link.verysync.com/#f=MNBVC%40xclimbing&sz=105E4&k=P4AJDJXHY3RCCOCDJZX3S7HO7FKK4X2NSOLXFAFGFVGPDRP7COTVIE&d=SJZHVB7GAZZLS2ZN43D3NNEBHPMU&t=1&tm=1676793101554&v=v2.16.0&a=1
 )
-
+>注：此part1需占磁盘空间10T+，如需要更小分块的链接，请看：[锐意新计划](https://wiki.mnbvc.org/doku.php/sjcc#%E9%94%90%E6%84%8F%E6%96%B0%E8%AE%A1%E5%88%92)
 
 >微力密钥part2: B4FQSD525XQQDY6XNO7JZ6BM2EIKAUTVPLLVX6N52HIWBZ7G72R7EQ   
 >[微力直达链接part2](https://link.verysync.com/#f=%5BMNBVC%5D%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99%E9%9B%86Part2&sz=105E4&k=S4WHJU525OHHUP6OEF7AQ6SD2VZBRLKMGCCMO6E52YZNSQ7X72I7VH&d=MRE3PRO3PDIEMIKTK54XGDKTN6ME&t=1&tm=1742433720437&v=v2.20.0&a=1
