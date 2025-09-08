@@ -84,7 +84,7 @@
 [百度网盘](https://pan.baidu.com/s/1GF7Zz6SggKZktu8WamyM_Q?pwd=gz2n) 
 
 20230127.zip 压缩包10.73GB，原始27.12GB   
-[百度网盘](https://pan.baidu.com/s/1WpxRHn9BUe92KzY4gZp_Ew?pwd=47kr) 
+[百度网盘](https://pan.baidu.com/s/1P5R3RKQ6GH2zez6uxkcdYw?pwd=sync) 
 
 20230128.zip 压缩包8.94GB，原始27.31GB   
 [百度网盘](https://pan.baidu.com/s/1fBGdv2V8ZHjJCA_Snjc5Bw?pwd=4de7) 
