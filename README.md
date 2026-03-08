@@ -10,7 +10,7 @@
 
 ### 进度
 
-目前总数据量60635GB，目标是达到253T数据，目前进度23.9%。  
+目前总数据量60637GB，目标是达到253T数据，目前进度23.9%。  
 
 ### 数据说明
 压缩包密码为253874
@@ -86,6 +86,12 @@
  + 裁判文书网的清洗代码：[MNBVC-judgment](https://github.com/wormtooth/MNBVC-judgment)
  + 剧本杀的清洗代码：[MNBVC-pdf-extract](https://github.com/459737087/MNBVC-pdf-extract/)
  + DocLayNet的清洗代码：[DocLayNetPlus_mnbvc](https://github.com/luigide2020/DocLayNetPlus_mnbvc)
+ + 天涯论坛的清洗代码：[tianya-mnbvc](https://github.com/pany8125/tianya-mnbvc)
+ + reddit论坛的清洗代码：[reddit-mnbvc](https://github.com/pany8125/reddit-mnbvc)
+ + TigerBot的清洗代码：[TigerBot-mnbvc](https://github.com/pany8125/TigerBot-mnbvc)
+ + Telechat的文本清洗代码：[Telechat-mnbvc](https://github.com/pany8125/Telechat-mnbvc)
+ + Telechat的问答语料清洗代码：[ShareGPTQAExtractor-mnbvc](https://github.com/pany8125/ShareGPTQAExtractor-mnbvc)
+ + Poem的清洗代码：[PoemExtractor-mnbvc](https://github.com/pany8125/PoemExtractor-mnbvc)
 
 ### 其他小工具
  + chinarxiv的爬虫：[chinaxivCrawler_mnbvc](https://github.com/flychen59/chinaxivCrawler_mnbvc)
